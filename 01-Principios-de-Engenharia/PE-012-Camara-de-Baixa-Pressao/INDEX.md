@@ -54,6 +54,12 @@ Nesse volume interno, a água permanece temporariamente armazenada antes de ser 
 
 A Câmara de Baixa Pressão atua como elemento de estabilização hidráulica entre o Labirinto Hidráulico e o ponto de emissão.
 
+Além da geometria da própria Câmara de Baixa Pressão, o emissor possui pontos de apoio estruturais (batentes) incorporados ao seu corpo.
+
+Esses batentes impedem que a fita gotejadora se deforme sobre a Câmara de Baixa Pressão durante o processo de fabricação ou durante a operação do sistema.
+
+Dessa forma, o volume hidráulico da Câmara de Baixa Pressão é preservado, garantindo o correto funcionamento do emissor e a alimentação contínua do orifício de saída.
+
 ---
 
 # 5. APLICAÇÕES NA SP IRRIGAÇÃO
