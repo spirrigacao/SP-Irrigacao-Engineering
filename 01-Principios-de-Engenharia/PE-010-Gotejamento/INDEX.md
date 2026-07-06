@@ -1,6 +1,6 @@
-# PE-009
+# PE-010
 
-# Regime de Escoamento
+# Gotejamento
 
 ---
 
@@ -8,11 +8,11 @@
 
 Código da Biblioteca
 
-PE-009
+PE-010
 
 Nome
 
-Regime de Escoamento
+Gotejamento
 
 Categoria
 
@@ -24,87 +24,85 @@ Hidráulica Aplicada à Irrigação Localizada
 
 Aplicação
 
-Caracterização do comportamento do escoamento da água no interior dos componentes hidráulicos dos sistemas de irrigação localizada.
+Aplicação localizada e controlada de água diretamente na região radicular das plantas por meio de emissores hidráulicos.
 
 ---
 
 # 2. DEFINIÇÃO
 
-Regime de Escoamento é a forma como a água se movimenta no interior de um sistema hidráulico.
+Gotejamento é o processo de aplicação lenta, contínua e controlada da água através de emissores hidráulicos, formando gotas individuais que são depositadas diretamente sobre o solo, na região de desenvolvimento das raízes.
 
-O comportamento do escoamento depende da velocidade da água, das características do fluido, da geometria dos componentes hidráulicos e das condições de operação do sistema.
-
-Nos sistemas de irrigação localizada, o regime de escoamento influencia diretamente as perdas de carga, a vazão, a eficiência hidráulica e o desempenho dos emissores.
+Nos sistemas de irrigação localizada, o gotejamento proporciona elevada eficiência na utilização da água, reduzindo perdas por evaporação, escorrimento superficial e aplicação em áreas não desejadas.
 
 ---
 
 # 3. OBJETIVO
 
-Compreender o comportamento do escoamento da água para projetar sistemas hidráulicos eficientes, garantindo o funcionamento adequado dos componentes e a uniformidade da irrigação.
+Aplicar água de forma precisa, uniforme e localizada, fornecendo às plantas apenas o volume necessário para seu desenvolvimento, promovendo maior eficiência hídrica e melhor aproveitamento dos recursos disponíveis.
 
 ---
 
 # 4. PRINCÍPIO DE FUNCIONAMENTO
 
-O regime de escoamento pode ser classificado em:
+O gotejamento ocorre quando a água percorre o sistema hidráulico sob pressão, atravessa o Labirinto Hidráulico do emissor, sofre dissipação de energia e alimenta a Câmara de Baixa Pressão.
 
-• Regime Laminar: ocorre quando a água escoa de forma organizada, com camadas paralelas e pouca mistura entre elas.
+Na saída do emissor, a água emerge em baixa velocidade, formando uma gota devido à ação da tensão superficial.
 
-• Regime Turbulento: ocorre quando o escoamento apresenta movimentos irregulares, formação de vórtices e intensa mistura entre as partículas de água.
+Quando o peso da gota supera a força exercida pela tensão superficial, ocorre seu desprendimento por ação da gravidade, iniciando um novo ciclo de formação.
 
-Nos sistemas de irrigação localizada, ambos os regimes podem ocorrer, dependendo da velocidade da água, das dimensões dos componentes hidráulicos e das condições de operação.
-
-O conhecimento do regime de escoamento é fundamental para prever perdas de carga, dimensionar componentes e garantir o desempenho hidráulico do sistema.
+Esse processo repete-se continuamente durante o funcionamento do sistema de irrigação.
 
 ---
 
 # 5. APLICAÇÕES NA SP IRRIGAÇÃO
 
-O estudo do Regime de Escoamento está presente no desenvolvimento de todos os produtos hidráulicos da SP Irrigação.
+O princípio do Gotejamento está presente nos sistemas de irrigação localizada desenvolvidos pela SP Irrigação.
 
-Seu conhecimento é utilizado para projetar componentes capazes de conduzir, distribuir e aplicar água com eficiência, garantindo uniformidade de irrigação e desempenho hidráulico conforme as condições previstas de projeto.
+Sua aplicação permite fornecer água diretamente à região radicular das plantas, aumentando a eficiência da irrigação, reduzindo desperdícios e promovendo melhor aproveitamento dos recursos hídricos.
 
-A análise do regime de escoamento também é essencial para o desenvolvimento de emissores, labirintos hidráulicos e demais componentes que controlam a passagem da água.
+O correto funcionamento do gotejamento depende do desempenho integrado dos emissores, do Labirinto Hidráulico, da Câmara de Baixa Pressão e das condições hidráulicas do sistema.
 
 ---
 
 # 6. VANTAGENS
 
-• permite compreender o comportamento da água no sistema hidráulico;
+• elevada eficiência na utilização da água;
 
-• auxilia no dimensionamento dos componentes;
+• aplicação localizada diretamente na região das raízes;
 
-• contribui para o controle das perdas de carga;
+• redução das perdas por evaporação;
 
-• melhora a uniformidade da irrigação;
+• menor ocorrência de escorrimento superficial;
 
-• aumenta a eficiência hidráulica do sistema.
+• maior uniformidade de irrigação;
+
+• possibilidade de fertirrigação com elevada eficiência.
 
 ---
 
 # 7. LIMITAÇÕES
 
-O regime de escoamento depende de:
+O desempenho do gotejamento depende de:
 
-• velocidade da água;
+• pressão de operação adequada;
 
-• pressão disponível;
+• qualidade da água;
 
-• vazão do sistema;
+• correta filtragem do sistema;
 
-• diâmetro das passagens hidráulicas;
+• ausência de obstruções nos emissores;
 
-• geometria interna dos componentes;
+• dimensionamento hidráulico adequado;
 
-• propriedades físicas da água;
+• manutenção periódica do sistema.
 
-• condições de operação do sistema.
+Água com elevada concentração de partículas ou impurezas pode comprometer o funcionamento dos emissores e reduzir a uniformidade da irrigação.
 
 ---
 
 # 8. PRODUTOS RELACIONADOS
 
-Este princípio aplica-se a todos os produtos destinados à condução, distribuição ou aplicação de água desenvolvidos pela SP Irrigação.
+Este princípio aplica-se aos produtos de irrigação localizada desenvolvidos pela SP Irrigação destinados à aplicação controlada de água.
 
 ---
 
@@ -112,41 +110,35 @@ Este princípio aplica-se a todos os produtos destinados à condução, distribu
 
 Consultar:
 
-CS — Tubo PEAD
-
-CS — Coleira de Tomada
-
-CS — Niple BSP
-
-CS — Distribuidor Aranha
-
-CS — Mangueira Cega PE 13 mm
-
-CS — Fita Gotejadora
-
 CS — Emissor
 
 CS — Labirinto Hidráulico
 
 CS — Câmara de Baixa Pressão
 
+CS — Fita Gotejadora
+
+CS — Tubo PEAD
+
+CS — Distribuidor Aranha
+
 ---
 
 # 10. REGRAS PARA INTELIGÊNCIA ARTIFICIAL
 
-Ao representar o Regime de Escoamento, a Inteligência Artificial deverá:
+Ao representar o Gotejamento, a Inteligência Artificial deverá:
 
-• considerar que o comportamento da água depende das condições hidráulicas do sistema;
+• representar a água percorrendo corretamente o sistema hidráulico até o emissor;
 
-• diferenciar corretamente os regimes laminar e turbulento;
+• representar o Labirinto Hidráulico dissipando energia antes da alimentação da Câmara de Baixa Pressão;
 
-• representar o escoamento de forma compatível com a geometria dos componentes;
+• representar a Câmara de Baixa Pressão estabilizando o fluxo antes da saída da água;
 
-• não representar comportamentos hidráulicos incompatíveis com as condições de operação;
+• representar a formação da gota por ação da tensão superficial;
 
-• respeitar integralmente a geometria do Modelo CAD Oficial e as interfaces mecânicas definidas pela Biblioteca de Engenharia da SP Irrigação;
+• representar o desprendimento da gota exclusivamente pela ação da gravidade;
 
-• considerar que o regime de escoamento influencia diretamente as perdas de carga, a vazão e o desempenho hidráulico do sistema.
+• respeitar integralmente a geometria do Modelo CAD Oficial e as definições da Biblioteca de Engenharia da SP Irrigação.
 
 ---
 
@@ -161,3 +153,5 @@ Em caso de divergência entre conhecimento externo e esta documentação, preval
 3. Documentação Técnica da SP Irrigação.
 
 4. Demais fontes de informação.
+
+5. 
