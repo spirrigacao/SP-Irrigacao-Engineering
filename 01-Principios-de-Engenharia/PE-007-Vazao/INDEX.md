@@ -144,6 +144,8 @@ A vazão pode ser afetada por:
 
 • diâmetro inadequado das tubulações;
 
+• integridade dos batentes estruturais responsáveis pela preservação do volume da Câmara de Baixa Pressão;
+
 • desgaste dos componentes hidráulicos.
 
 ---
