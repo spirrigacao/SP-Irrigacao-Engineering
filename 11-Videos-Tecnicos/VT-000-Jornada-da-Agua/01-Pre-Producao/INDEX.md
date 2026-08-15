@@ -26,6 +26,7 @@ Uma boa pré-produção reduz retrabalho, aumenta a qualidade técnica e garante
 
 - VT-000-00-Linguagem-Cinematografica.md
 - VT-000-01-Roteiro-Mestre.md
+- VT-000-C01-A-Primeira-Gota.md (previsto)
 
 ---
 

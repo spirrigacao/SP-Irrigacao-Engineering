@@ -99,7 +99,7 @@ Se a resposta for "não", a fala deve ser revisada.
 
 O vídeo é dividido em momentos, na seguinte ordem:
 
-1. **A Primeira Gota** — abertura emocional. O espectador descobre a água antes de qualquer produto ou institucional.
+1. **VT-000-C01 — A Primeira Gota** — abertura emocional. O espectador descobre a água antes de qualquer produto ou institucional.
 2. **Origem da Água** — a água surge na natureza (chuva, rio, nuvens, montanhas, oceano).
 3. **A Captação e o Percurso** — captação, reservatório, bombeamento e filtragem.
 4. **A Engenharia no Caminho** — tubulações, conexões, distribuição, condução secundária e linha de irrigação.
@@ -111,9 +111,9 @@ Os nomes e a ordem exata dos capítulos devem ser validados antes da produção 
 
 ---
 
-# 7. ABERTURA — A PRIMEIRA GOTA
+# 7. ABERTURA — VT-000-C01 — A PRIMEIRA GOTA
 
-A direção conceitual aprovada para a abertura é:
+A direção conceitual aprovada para o primeiro capítulo é:
 
 Tela completamente preta.
 
@@ -372,7 +372,7 @@ Referências inventadas não são permitidas.
 
 # 17. CONFLITOS CONHECIDOS
 
-[CONFLITO — VALIDAR] O Prompt Mestre e a direção atual referenciam o capítulo "VT-000-C01 — A Primeira Gota". No repositório atual, esse código não existe. A abertura descrita na seção 7 deste documento corresponde a essa intenção. Definir se o código `VT-000-C01` será criado como documento próprio ou se a abertura permanece incorporada ao Roteiro-Mestre.
+[DECISÃO APROVADA] VT-000-C01 — A Primeira Gota é o código oficial do primeiro capítulo da Jornada da Água (Opção A adotada). O arquivo VT-000-C01-A-Primeira-Gota.md está previsto na Pré-Produção e será criado em etapa posterior, após aprovação de seu conteúdo.
 
 [CONFLITO — VALIDAR] Gotex é citado em múltiplos documentos, mas não possui ficha oficial própria. Definir a localização definitiva do personagem na Biblioteca.
 
