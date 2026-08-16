@@ -29,3 +29,9 @@ PG-007 — Inspetor de Qualidade
 PG-008 — Especialista em Normas Técnicas
 
 PG-009 — Especialista em Inteligência Artificial
+
+---
+
+## Personagens Narrativos
+
+GOTEX — Ficha Mestra (ver: Gotex/Gotex-Ficha-Mestra.md)
