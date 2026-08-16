@@ -105,7 +105,7 @@ O vídeo é dividido em momentos, na seguinte ordem:
 4. **A Engenharia no Caminho** — tubulações, conexões, distribuição, condução secundária e linha de irrigação.
 5. **O Emissor e a Raiz** — a água chega ao solo, é conduzida até a raiz e participa da planta.
 6. **Água e Alimento** — a água presente na produção de alimentos e na colheita.
-7. **Compreenda por que cada gota importa** — fechamento, retomando o sentido da jornada e o respeito à água.
+7. **O Caminho Continua** — fechamento, retomando o sentido da jornada e o respeito à água.
 
 Os nomes e a ordem exata dos capítulos devem ser validados antes da produção detalhada de cada cena.
 
@@ -285,7 +285,7 @@ O espectador deve sair com:
 
 Slogan de encerramento:
 
-> **Compreenda por que cada gota importa.**
+> **Cada gota tem um caminho. Nossa engenharia existe para permitir esse caminho acontecer na vida real.**
 
 ---
 
@@ -386,4 +386,4 @@ Referências inventadas não são permitidas.
 
 # 19. SLOGAN
 
-> **Compreenda por que cada gota importa.**
+> **Cada gota tem um caminho. Nossa engenharia existe para permitir esse caminho acontecer na vida real.**

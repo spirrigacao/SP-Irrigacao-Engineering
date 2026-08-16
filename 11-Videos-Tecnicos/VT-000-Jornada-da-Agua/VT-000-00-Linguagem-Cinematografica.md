@@ -179,4 +179,4 @@ Cada vídeo deve fazer o espectador compreender que produzir alimentos depende d
 
 # 14. SLOGAN
 
-> Compreenda por que cada gota importa.
+> **Cada gota tem um caminho. Nossa engenharia existe para permitir esse caminho acontecer na vida real.**

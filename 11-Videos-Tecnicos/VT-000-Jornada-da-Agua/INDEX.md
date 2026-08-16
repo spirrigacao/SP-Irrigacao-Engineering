@@ -67,4 +67,4 @@ Ao compreender essa jornada, o espectador compreenderá naturalmente a importân
 
 ## 8. SLOGAN
 
-> **Compreenda por que cada gota importa.**
+> **Cada gota tem um caminho. Nossa engenharia existe para permitir esse caminho acontecer na vida real.**

@@ -294,4 +294,4 @@ Nenhuma etapa de produção avança sem validação da etapa anterior.
 
 # 20. SLOGAN
 
-> **Cada gota tem um caminho. Nossa engenharia existe para respeitá-lo.**
+> **Cada gota tem um caminho. Nossa engenharia existe para permitir esse caminho acontecer na vida real.**
