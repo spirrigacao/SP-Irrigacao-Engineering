@@ -51,6 +51,40 @@ Ao compreender essa jornada, o espectador compreenderá naturalmente a importân
 
 ---
 
+## 5.1. PRINCÍPIOS OFICIAIS DA JORNADA DA ÁGUA
+
+Princípios conceituais e editoriais oficiais do VT-000 — A Jornada da Água.
+
+### VT-000-P01 — A água é a protagonista
+
+A água não recebe uma missão. Ela já possui sua história, seus movimentos e seus caminhos. Nós os revelamos.
+
+### VT-000-P02 — A tecnologia revela, não inventa
+
+A computação gráfica, IA, simulação e demais tecnologias devem tornar visíveis fenômenos reais, e não criar fenômenos apenas para produzir impacto visual.
+
+### VT-000-P03 — Tornar visível o que os olhos não conseguem ver
+
+A Jornada deve permitir que o agricultor observe fenômenos que acontecem na realidade, mas que normalmente estão fora da capacidade de observação humana por escala, velocidade, profundidade ou dimensão.
+
+### VT-000-P04 — A engenharia entra depois da compreensão
+
+Primeiro compreendemos o caminho da água. Depois mostramos onde a ação humana encontra esse caminho e como a engenharia pode permitir que ele aconteça na vida real.
+
+---
+
+## 5.2. FRASE OFICIAL DA JORNADA DA ÁGUA
+
+> **Cada gota tem um caminho. Nossa engenharia existe para permitir esse caminho acontecer na vida real.**
+
+---
+
+## 5.3. PRINCÍPIO EDITORIAL COMPLEMENTAR
+
+> **Não estamos levando o agricultor para um mundo virtual. Estamos usando o mundo virtual para mostrar a ele o mundo real que sempre esteve diante dele.**
+
+---
+
 ## 6. DOCUMENTAÇÃO
 
 ### Pré-Produção
