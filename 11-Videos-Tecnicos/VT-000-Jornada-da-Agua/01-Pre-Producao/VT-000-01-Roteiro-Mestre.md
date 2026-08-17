@@ -186,7 +186,7 @@ Temas cobertos neste momento:
 
 Nenhuma informação científica pode contradizer a seção `12-Ciencias-da-Agua` da Biblioteca.
 
-[VALIDAR] A seção 12-Ciencias-da-Agua ainda não possui conteúdo publicado (CA-000 e CA-001 inexistentes).
+[VALIDAR] A seção 12-Ciencias-da-Agua já possui conteúdo publicado (CA-000 a CA-005, commit 9e7e39f). Manter a referência atualizada à base científica ao detalhar este momento.
 
 ---
 
