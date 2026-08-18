@@ -335,6 +335,38 @@ Ambiente natural realista. A câmera começa próxima de uma superfície vegetal
 
 Objetivo: criar uma entrada natural e realista antes da formação da gota. A gota ainda não é imediatamente apresentada como protagonista; primeiro mostramos o mundo em que ela vai aparecer.
 
+### referência visual — C01.01-RV01
+
+**VT-000-C01-C01.01-RV01**
+**“Referência Visual 01 — O Mundo Antes da Gota”**
+
+Status: REFERÊNCIA VISUAL CONCEITUAL.
+
+Arquivo: `../02-Midia/C01/VT-000-C01-C01.01-RV01-O-Mundo-Antes-da-Gota.jpg`
+
+A referência apresenta:
+
+- macrofotografia extremamente próxima da superfície da folha;
+- primeiro plano desfocado;
+- faixa central de foco;
+- fundo desfocado;
+- textura natural da folha;
+- região de umidade/água no centro;
+- leve luminosidade na borda da água;
+- interior translúcido;
+- cor viva da folha perceptível através da água;
+- interação entre reflexão, refração, transparência e transmissão da luz.
+
+Orientação visual:
+
+> A água revela o mundo ao seu redor.
+
+Preservar:
+
+> Quando a gota aparece, existe uma história para revelar.
+
+> Gota = história.
+
 ## C01.02 — A ÁGUA COMEÇA A SE REUNIR
 
 Pequenas quantidades de água começam a se reunir sobre a superfície da folha. A água adquire forma mais definida pelo comportamento da tensão superficial e pela interação com a superfície. Mostrar: contato com a superfície, deformação, reflexão, refração, pequenas oscilações, interação entre água e superfície vegetal.
