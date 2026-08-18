@@ -311,6 +311,159 @@ Sempre que uma afirmação depender de condições, registrar `[DEPENDENTE DE CO
 
 ---
 
+# 9. SEQUÊNCIA NARRATIVA DO C01
+
+O C01 funciona como uma única sequência narrativa, tendo a gota como fio condutor:
+
+folha
+→ água começa a se reunir
+→ formação da gota
+→ crescimento
+→ desprendimento
+→ queda
+→ reorganização da forma
+→ breve mudança de escala
+→ retorno à gota
+→ aproximação do solo
+→ C02.
+
+A gota não deve ser tratada como uma coleção de cenas independentes. Ela é o fio condutor do capítulo.
+
+## C01.01 — O MUNDO ANTES DA GOTA
+
+Ambiente natural realista. A câmera começa próxima de uma superfície vegetal, com aproximação contemplativa e cinematográfica. Revelar gradualmente: folha, textura, nervuras, pequenas irregularidades, partículas, umidade, microdepressões da superfície.
+
+Objetivo: criar uma entrada natural e realista antes da formação da gota. A gota ainda não é imediatamente apresentada como protagonista; primeiro mostramos o mundo em que ela vai aparecer.
+
+## C01.02 — A ÁGUA COMEÇA A SE REUNIR
+
+Pequenas quantidades de água começam a se reunir sobre a superfície da folha. A água adquire forma mais definida pelo comportamento da tensão superficial e pela interação com a superfície. Mostrar: contato com a superfície, deformação, reflexão, refração, pequenas oscilações, interação entre água e superfície vegetal.
+
+Não criar uma gota artificialmente perfeita. A forma deve surgir naturalmente.
+
+## C01.03 — A GOTA CRESCE
+
+A gota aumenta de volume. Sua forma continua influenciada pela interação entre gravidade, tensão superficial, adesão e geometria/características da superfície. Mostrar: crescimento, deformação, alongamento progressivo, interação com a folha, reflexos, refração, distorções visuais através da água.
+
+A luz atravessa a gota e modifica visualmente o ambiente observado através dela. Objetivo: permitir que o espectador observe algo que normalmente não consegue acompanhar nessa escala.
+
+## C01.04 — A GRAVIDADE ENTRA NA HISTÓRIA
+
+A gota cresce até que a interação entre peso, tensão superficial, adesão e geometria da superfície leve à perda de estabilidade do contato e ao desprendimento. Mostrar: alongamento, deformação, oscilação, redução progressiva da região de contato, preparação para o rompimento, perda do último contato com a superfície.
+
+Não transformar a cena em explicação didática. O fenômeno deve ser revelado visualmente.
+
+Importante: não afirmar que a gravidade diminui durante a queda. A gravidade continua atuando durante todo o movimento.
+
+## C01.05 — O DESPRENDIMENTO E A FORMA DA GOTA
+
+Quando a gota ainda está presa à folha, sua forma é influenciada pela interação entre gravidade, tensão superficial, adesão e geometria da superfície.
+
+No momento do desprendimento, a gota deixa de estar condicionada pela superfície e passa a se reorganizar durante a queda. A tensão superficial tende a favorecer uma configuração mais compacta, enquanto gravidade, resistência do ar e movimento continuam influenciando seu comportamento.
+
+A animação deve mostrar, em câmera lenta:
+
+gota presa e alongada
+→ rompimento do último contato com a folha
+→ início da queda
+→ reorganização da forma
+→ oscilações e deformações
+→ forma mais livre e compacta durante o movimento.
+
+Importante cientificamente: não afirmar que a gravidade diminui durante a queda. A gravidade continua atuando. A gota passa a apresentar uma forma mais livre porque deixa de estar condicionada pela superfície da folha. A tensão superficial passa a ter papel importante na tendência de reorganização, enquanto gravidade, resistência do ar e movimento continuam influenciando sua forma.
+
+Não transformar a gota em uma esfera artificial ou perfeitamente geométrica. A representação deve respeitar o comportamento físico real de uma gota de água em queda.
+
+Linguagem visual: a câmera acompanha a gota após o desprendimento; a folha começa a desaparecer para trás; a gota passa a ocupar o centro da narrativa. A câmera pode realizar uma aproximação e uma órbita suave ao redor dela, revelando: superfície, reflexos, refração, deformações, oscilações, mudanças de forma.
+
+Objetivo narrativo: esta é a primeira grande revelação do VT-000. O espectador conhece uma gota no cotidiano, mas normalmente não consegue observar sua formação, desprendimento e reorganização durante a queda nessa escala e velocidade. A tecnologia deve revelar um fenômeno real que normalmente passa despercebido.
+
+Princípio visual da cena:
+
+> Quando a gota aparece, existe uma história para revelar.
+
+Manter a ideia narrativa:
+
+> Gota = história.
+
+## C01.06 — ENTRAMOS NA GOTA
+
+Depois do desprendimento, a câmera continua acompanhando a gota. A câmera se aproxima até a superfície da gota ocupar o quadro. Realizar uma transição visual contínua para uma escala extremamente próxima da água.
+
+A intenção é permitir ao espectador atravessar uma escala que normalmente não consegue observar. A transição pode revelar visualmente: interação da luz, refração, dinâmica da água, comportamento em escala microscópica, estruturas e movimentos fisicamente fundamentados.
+
+Importante: não criar um "mundo mágico" dentro da gota. A representação deve permanecer fundamentada em fenômenos físicos reais. A exploração microscópica deve ser breve e funcionar como revelação visual, não como aula.
+
+## C01.07 — RETORNO À ESCALA DA GOTA
+
+Depois da breve passagem para uma escala extremamente próxima, a câmera retorna gradualmente à escala da gota. A gota continua em queda. A continuidade narrativa deve ser preservada. A tecnologia apenas mudou temporariamente a escala de observação.
+
+Princípio:
+
+> A câmera pode mudar de escala, mas nunca perde a história da água.
+
+A câmera nunca deve abandonar a continuidade da gota.
+
+## C01.08 — A APROXIMAÇÃO DO SOLO
+
+A câmera continua acompanhando a mesma gota. A folha fica progressivamente para trás. O solo começa a aparecer abaixo. A gota continua descendo. A câmera acompanha sua trajetória em direção à superfície.
+
+Importante: não desenvolver ainda impacto, espalhamento, infiltração, poros, partículas do solo, raízes ou transporte de nutrientes — esses elementos pertencem ao desenvolvimento posterior do VT-000-C02 — O Encontro com o Solo.
+
+O C01 deve terminar exatamente no momento em que a gota está prestes a encontrar o solo. Essa transição deve preparar organicamente a entrada do VT-000-C02.
+
+---
+
+# 10. PRINCÍPIOS NARRATIVOS A PRESERVAR
+
+1. A água é protagonista.
+2. Gota = história.
+3. Quando uma gota aparece, existe uma história para revelar.
+4. A tecnologia revela, não inventa.
+5. A câmera pode mudar de escala, mas nunca perde a história da água.
+6. O espectador deve descobrir fenômenos reais que normalmente não consegue observar.
+7. A computação gráfica deve permitir observar fenômenos naturais em escalas e velocidades normalmente inacessíveis à percepção humana.
+8. O C01 deve permanecer dedicado à água e ao início de seu caminho natural.
+
+---
+
+# 11. LIMITES DO C01
+
+Não inserir ainda no C01:
+
+- engenharia;
+- irrigação;
+- produtos;
+- conectores;
+- emissores;
+- tubulações;
+- SP Irrigação;
+- agricultura como tema central.
+
+O C01 deve permanecer inteiramente dedicado à água e ao início de seu caminho natural.
+
+---
+
+# 12. CONTINUIDADE DO C01
+
+O C01 deve funcionar como uma única sequência narrativa:
+
+folha
+→ água começa a se reunir
+→ formação da gota
+→ crescimento
+→ desprendimento
+→ queda
+→ reorganização da forma
+→ breve mudança de escala
+→ retorno à gota
+→ aproximação do solo
+→ C02.
+
+A gota não deve ser tratada como uma coleção de cenas independentes. Ela é o fio condutor do capítulo.
+
+---
+
 # SLOGAN OFICIAL
 
 > Cada gota tem um caminho. Nossa engenharia existe para permitir esse caminho acontecer na vida real.
