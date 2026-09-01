@@ -115,6 +115,79 @@ Sempre deverá apresentar aparência limpa, transparente e fisicamente correta.
 
 Seu comportamento deve respeitar as leis da física.
 
+## 8.1. REGRA VISUAL OFICIAL — ÁGUA / VT-000-C01 — Formação da Gota [ATUAL / OFICIAL]
+
+> **Status: ATUAL / OFICIAL — vigente a partir de 31/08/2026**
+
+### Aparência da Água
+
+A água deve ser:
+
+- cristalina;
+- translúcida;
+- fotorrealista;
+- visualmente leve;
+- sem dominante azul artificial;
+- sem dominante verde artificial;
+- sem aparência de vidro;
+- sem aparência de plástico;
+- sem aparência gelatinosa;
+- sem aparência metálica.
+
+A água deve apresentar:
+
+- refração física natural;
+- reflexão física natural;
+- transparência realista;
+- pequenas variações tonais causadas apenas pelo ambiente;
+- comportamento compatível com água real observada em macrofotografia.
+
+### Linguagem Cinematográfica
+
+- Fotografia macro cinematográfica.
+- Profundidade de campo curta.
+- Iluminação natural suave.
+- Detalhamento extremo.
+- Texturas físicas realistas.
+- A água deve permanecer como protagonista da cena.
+
+### Continuidade
+
+Todas as futuras cenas da sequência VT-000 devem utilizar esta representação visual como referência principal, salvo quando uma alteração narrativa for explicitamente documentada.
+
+As imagens oficialmente vigentes de **C01.06, C01.07 e C01.08** seguem esta linguagem. A água deve permanecer visualmente consistente entre as cenas, salvo quando uma mudança for deliberadamente definida pela narrativa.
+
+Arquivos oficiais vigentes:
+
+- `IMAGENS/C01/C01.06/C01.06-RV01-Entrada-na-Agua.jpg` (commit `dabf7e1` — origem `fi7rit`)
+- `IMAGENS/C01/C01.07/C01.07-RV01-Imersao-e-Profundidade.jpg` (commit `dabf7e1` — origem `ov7bcz`)
+- `IMAGENS/C01/C01.08/C01.08-RV01-Aproximacao-ao-Solo.jpg` (origem `4tkifw` — pendente de commit)
+
+### Proibição
+
+Não utilizar como referência ativa versões com dominante azul ou azul-esverdeada anteriormente utilizadas em versões históricas da biblioteca.
+
+Essas versões permanecem preservadas apenas para consulta histórica no controle de versão.
+
+## 8.2. HISTÓRICO — VERSÕES AZULADAS [HISTÓRICO / NÃO OFICIAL]
+
+> **Status: HISTÓRICO / NÃO OFICIAL — não utilizar como referência padrão**
+
+As versões com dominante **azul/esverdeada** presentes no commit **`6f50f54`** (`C01.06` 849.077 B — origem `pjyvkr` / `C01.07` 554.140 B — origem `83dnvg`) permanecem **preservadas no histórico Git**, porém são classificadas como **VERSÕES HISTÓRICAS / NÃO OFICIAIS**.
+
+Elas **NÃO** devem ser utilizadas como referência visual padrão pela biblioteca ou por futuras gerações de IA.
+
+- Commit histórico: `6f50f54` — `VT-000: adiciona referências visuais C01.06 e C01.07`
+- Commit oficial vigente: `dabf7e1` — `VT-000: corrige identidade visual da agua em C01.06 e C01.07`
+
+## 8.3. REGRA DE PRIORIDADE
+
+Quando houver conflito entre uma referência histórica e uma referência atual:
+
+> **A REFERÊNCIA ATUAL SEMPRE TEM PRIORIDADE.**
+
+Não restaurar automaticamente versões históricas sem deliberação explícita.
+
 ---
 
 # 9. GOTEX
