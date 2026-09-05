@@ -23,4 +23,5 @@
 * C02.05 — Deslocamento Subterrâneo
 * C02.06 — A Água Encontra a Raiz
   * RV01 — Primeira publicação
-  * RV02 — Vigente (correção agronômica da rizosfera)
+  * RV02 — Correção agronômica da rizosfera
+  * RV03 — Vigente (revela o invisível — cor travada na referência)
