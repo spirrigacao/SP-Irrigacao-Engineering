@@ -13,3 +13,14 @@
 ## C01 — Formação da Gota
 
 * C01.01 — O Mundo Antes da Gota
+
+## C02 — O Encontro com o Solo
+
+* C02.01 — O Primeiro Contato
+* C02.02 — O Início da Infiltração
+* C02.03 — Entrada pelos Poros
+* C02.04 — A Água Desce
+* C02.05 — Deslocamento Subterrâneo
+* C02.06 — A Água Encontra a Raiz
+  * RV01 — Primeira publicação
+  * RV02 — Vigente (correção agronômica da rizosfera)
