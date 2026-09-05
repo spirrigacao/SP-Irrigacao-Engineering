@@ -27,3 +27,5 @@
   * RV03 — Vigente (revela o invisível — cor travada na referência)
 * C02.07 — A Raiz Recebe a Água
   * RV01 — Vigente (contato e recepção da água pela região radicular)
+* C02.08 — A Vida Começa a Responder
+  * RV01 — Vigente (resposta biológica microscópica na superfície radicular)
