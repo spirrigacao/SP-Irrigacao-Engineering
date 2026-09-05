@@ -25,3 +25,5 @@
   * RV01 — Primeira publicação
   * RV02 — Correção agronômica da rizosfera
   * RV03 — Vigente (revela o invisível — cor travada na referência)
+* C02.07 — A Raiz Recebe a Água
+  * RV01 — Vigente (contato e recepção da água pela região radicular)
