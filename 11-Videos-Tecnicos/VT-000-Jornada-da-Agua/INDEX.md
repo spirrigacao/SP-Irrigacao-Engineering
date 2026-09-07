@@ -29,3 +29,5 @@
   * RV01 — Vigente (contato e recepção da água pela região radicular)
 * C02.08 — A Vida Começa a Responder
   * RV01 — Vigente (resposta biológica microscópica na superfície radicular)
+* C02.09 — A Absorcao Comeca
+  * RV01 — Vigente (absorção da água pela raiz no ponto de contato)
