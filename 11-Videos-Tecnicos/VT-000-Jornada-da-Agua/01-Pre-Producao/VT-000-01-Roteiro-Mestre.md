@@ -692,33 +692,547 @@ A água continua sendo a protagonista.
 
 # 11. VT-000-C04 — A ÁGUA RETORNA AO CÉU
 
-> **Novo capítulo — a ser detalhado**
+> **Status: PLANEJADO — 7 cenas propostas (C04.01–C04.07)**
+> Continuação direta de C03.07 (A Água Chega às Folhas).
 
-A água chega às folhas e deixa a planta através da transpiração.
+## Função narrativa
 
-### progressão narrativa
+C04 começa exatamente onde o C03 terminou:
 
+**C03.07 — A Água Chega às Folhas**
+
+A água já percorreu toda a planta:
+
+nuvem → gota → solo → raiz → vasos → caule → ramificações → folhas.
+
+Agora começa a próxima transformação:
+
+**a água líquida chega ao tecido foliar, alcança a região de saída e deixa a planta principalmente como vapor d'água, que passa para o ar atmosférico.**
+
+O C04 deve mostrar a saída de água da planta para a atmosfera — a transpiração — de maneira visual, cinematográfica e natural.
+
+A câmera continua acompanhando a água.
+
+A água continua sendo a protagonista.
+
+A planta é o caminho.
+
+A tecnologia NÃO aparece.
+
+---
+
+## Objetivo científico
+
+O fenômeno central é a transpiração: a saída de vapor d'água pelas folhas para a atmosfera.
+
+A transpiração é o mecanismo que puxa a água da raiz para cima, impulsionando todo o sistema de condução.
+
+A água líquida, presente no tecido foliar, alcança a região de saída e passa para a atmosfera como vapor d'água, misturando-se ao ar.
+
+O vapor d'água é normalmente invisível a olho nu.
+
+A representação deve ser cientificamente plausível, mas NÃO didática.
+
+A água muda de estado — de líquida para vapor — e passa a existir como vapor d'água misturado ao ar atmosférico.
+
+Não mostrar:
+
+- moléculas;
+- células-guarda;
+- estômatos como diagramas;
+- estruturas microscópicas didáticas;
+- setas indicando vapor;
+- tubos de vapor;
+- nuvens artificiais surgindo instantaneamente;
+- névoa ou fumaça saindo diretamente da folha;
+- água líquida visível subindo como vapor.
+
+Se houver aproximação cinematográfica para tornar invisível visível, ela deve continuar parecendo uma observação natural e fotográfica.
+
+---
+
+## Objetivo emocional
+
+O espectador deve sentir que a água está **voltando para o ambiente**.
+
+A jornada pela planta terminou.
+
+A água retorna à atmosfera como parte do ciclo natural.
+
+A sensação é de:
+
+- retorno;
+- leveza;
+- completude;
+- continuidade;
+- ciclo.
+
+---
+
+## Transição C03.07 → C04.01
+
+### Último quadro do C03
+
+**C03.07 — A Água Chega às Folhas**
+
+Folha jovem de tangerineira. Nervuras claramente perceptíveis. Água chegando ao tecido foliar. Luz atravessando parcialmente a folha. Sensação de vida e atividade.
+
+### Primeiro quadro do C04
+
+**C04.01 — A Água se Espalha pela Folha**
+
+A câmera permanece na folha. A água, agora presente no tecido foliar, começa a se distribuir pelas nervuras. A escala continua muito próxima. A continuidade visual é direta — mesma planta, mesma folha, mesma luz, mesma paleta.
+
+O espectador deve perceber que a câmera simplesmente continuou observando a mesma folha.
+
+---
+
+## Transição C04.07 → C05.01
+
+### Último quadro do C04
+
+**C04.07 — O Céu Aguarda**
+
+A água deixou a planta e está agora na atmosfera como vapor d'água, misturada ao ar. O céu se abre. Nuvens distantes. A escala se ampliou completamente.
+
+### Primeiro quadro do C05
+
+**C05.01 — [definir na etapa de planejamento do C05]**
+
+A continuidade deve ser natural: a água que deixou a planta agora faz parte do ciclo atmosférico. O C05 amplia a escala para o ciclo natural completo.
+
+---
+
+## Sequência oficial — 7 cenas
+
+### C04.01 — A Água se Espalha pela Folha
+
+#### Função narrativa
+
+Estabelecer a continuidade direta de C03.07.
+
+A água já está na folha.
+
+Esta cena mostra que a água não fica estática — ela se distribui pelo tecido foliar, preenchendo as nervuras e caminhando em direção à superfície.
+
+#### Conteúdo visual
+
+- Folha de tangerineira em escala muito próxima.
+- Nervuras claramente visíveis.
+- Água presente no tecido, perceptível pela textura e pelo modo como a luz interage com a superfície.
+- Distribuição gradual — a água caminha pelas nervuras.
+- Luz natural atravessando parcialmente a folha.
+- Continuidade direta de C03.07.
+
+#### Escala
+
+Extremo macro da folha.
+
+#### Comportamento da água
+
+A água está integrada ao tecido vegetal. Não é uma gota sobre a folha. É água que faz parte do tecido, visível pela textura, brilho sutil e modo como a luz é refratada.
+
+#### Regra fundamental
+
+**C04.01 = a água continua viva dentro da folha.**
+
+Não é ainda a saída.
+
+---
+
+### C04.02 — A Água se Aproxima da Superfície
+
+#### Função narrativa
+
+Aproximar a narrativa da região em que a água deixará a planta.
+
+A câmera se aproxima da superfície foliar, onde a fronteira entre interior e exterior começa a se tornar perceptível.
+
+A água está se aproximando da região de saída.
+
+#### Conteúdo visual
+
+- Superfície da folha em escala muito próxima.
+- Textura da cutícula.
+- A água está presente no tecido, mais evidente nas regiões próximas à superfície.
+- Luz natural lateral revelando a textura.
+- A superfície funciona como a fronteira entre o interior da folha e o ambiente externo.
+- A câmera pode se aproximar muito da superfície, mas a imagem deve continuar parecendo fotografia de natureza, não microscopia didática.
+
+#### Escala
+
+Macro da superfície foliar.
+
+#### Comportamento da água
+
+A água está se aproximando da superfície. Ela está presente no tecido como umidade integrada, não como gotas. A sensação é de que a água está se movendo em direção à saída.
+
+#### Regra científica
+
+A transpiração ocorre principalmente pelos estômatos, mas a representação NÃO deve mostrar estômatos como diagrama.
+
+Não mostrar células.
+
+Não usar microscopia científica.
+
+A superfície deve funcionar visualmente como a fronteira entre o interior da folha e o ambiente externo.
+
+---
+
+### C04.03 — A Água Encontra o Ar
+
+#### Função narrativa
+
+Este é o momento central do C04:
+
+**a água líquida encontra o ar e inicia a transpiração — a passagem para a atmosfera como vapor d'água.**
+
+A fronteira entre a água no tecido e o ar externo se torna o ponto de encontro.
+
+#### Conteúdo visual
+
+- Bordas da folha ou superfície em contato com o ar.
+- Interface folha-atmosfera.
+- Luz natural penetrando ou contornando a folha.
+- A sensação é de que a água está na fronteira, prestes a deixar a planta.
+- O fenômeno deve ser sugerido pela imagem, não explicado por um efeito visual artificial.
+- A sensação é de transição, não de movimento brusco.
+
+#### Escala
+
+Macro, com a câmera posicionada na interface entre a folha e o ar.
+
+#### Comportamento da água
+
+A água está na interface folha-atmosfera. A representação visual deve sugerir o momento da transpiração:
+
+- a água está na fronteira;
+- o ar está presente ao lado;
+- a luz pode refratar diferamente na interface.
+
+NÃO usar:
+
+- gotas grandes caindo;
+- vapor denso e visível;
+- fumaça;
+- efeitos de vapor como se fosse fumaça;
+- partículas luminosas;
+- névoa saindo da folha.
+
+#### Regra narrativa
+
+Este é o momento mais importante do C04.
+
+A transpiração acontece.
+
+O espectador deve SENTIR que a água está passando para o ar, sem ver o fenômeno de forma literal.
+
+---
+
+### C04.04 — A Água Deixa a Folha
+
+#### Função narrativa
+
+Marcar claramente a saída da água da planta.
+
+A água já não deve parecer confinada ao tecido foliar.
+
+A câmera começa a ampliar a escala.
+
+O ambiente externo passa a ocupar mais espaço.
+
+#### Conteúdo visual
+
+- Folha ou grupo de folhas na parte inferior do enquadramento.
+- O ambiente externo (ar, luz) começa a dominar.
+- Luz natural vinda de cima ou lateral.
+- A câmera começa a se afastar.
+- A água não é mais visível como líquido no tecido — ela partiu para o ar.
+- Se houver representação visual do vapor, ela deve ser extremamente sutil, natural e atmosférica.
+- Vapor d'água é normalmente invisível.
+
+#### Escala
+
+Macro para médio — a câmera começa a se afastar.
+
+#### Comportamento da água
+
+A água deixou a folha e está agora como vapor d'água no ar atmosférico.
+
+Visualmente:
+
+- ausência de água líquida visível na folha;
+- o ar ao redor pode ter uma percepção sutil de umidade;
+- luz que interage com o ar de modo diferente.
+
+#### Regra científica
+
+O vapor d'água é normalmente invisível a olho nu.
+
+Não criar nuvens artificiais.
+
+Não criar névoa saindo da folha.
+
+---
+
+### C04.05 — O Vapor se Espalha
+
+#### Função narrativa
+
+A escala começa a ampliar.
+
+A câmera se afasta da folha individual e passa a observar o ambiente.
+
+O vapor d'água se mistura progressivamente ao ar.
+
+#### Conteúdo visual
+
+- Grupo de folhas ou parte da copa da planta.
+- Ar ao redor da vegetação.
+- Luz natural — o sol pode estar presente no enquadramento ou indiretamente.
+- O céu começa a aparecer no enquadramento.
+- A sensação é de que a água se misturou ao ambiente.
+- A planta diminui visualmente; o ar amplia.
+- NÃO criar uma coluna de vapor.
+- NÃO criar fumaça.
+- NÃO criar partículas.
+- NÃO criar uma nuvem artificial imediatamente acima da planta.
+
+#### Escala
+
+Médio — a planta ocupa menos do enquadramento.
+
+#### Comportamento da água
+
+A água está como vapor d'água, misturada ao ar atmosférico.
+
+O vapor não precisa ser visualmente visível.
+
+A representação é a ausência de água líquida e a presença do ar ao redor.
+
+#### Regra narrativa
+
+A ampliação de escala deve ser gradual e natural.
+
+Não pular abruptamente da folha para a paisagem.
+
+---
+
+### C04.06 — A Água Entra no Ar
+
+#### Função narrativa
+
+A água que deixou a planta está agora presente na atmosfera como vapor d'água, misturada ao ar.
+
+A câmera revela a planta inteira e o ar à sua volta.
+
+#### Conteúdo visual
+
+- Planta inteira (tangerineira) visível no enquadramento.
+- Ar ao redor da planta — atmosfera claramente presente.
+- Céu presente no enquadramento.
+- Luz natural — tarde ou manhã, com tons quentes.
+- A planta está quieta. A água partiu para o ar.
+- Sensação de continuidade entre planta e céu.
+- A água está no ar, mesmo que não seja visualmente visível.
+
+#### Escala
+
+Plano médio ou aberto — a planta inteira é visível.
+
+#### Comportamento da água
+
+A água está na atmosfera como vapor d'água, misturada ao ar.
+
+A representação visual é a ausência de água líquida na planta e a presença do ar ao redor.
+
+A água não precisa ser visualmente visível — ela está presente no ar.
+
+#### Regra narrativa
+
+A planta permanece viva e presente.
+
+A água não "mata" a planta ao sair.
+
+A transpiração é um processo natural e contínuo.
+
+---
+
+### C04.07 — O Céu Aguarda
+
+#### Função narrativa
+
+Concluir o C04.
+
+A água deixou a planta e está agora na atmosfera como vapor d'água.
+
+A câmera amplia completamente a escala.
+
+O céu se abre.
+
+A água faz parte do ciclo.
+
+#### Conteúdo visual
+
+- Céu dominando o enquadramento.
+- Nuvens naturais e distantes — não surgindo magicamente, mas já presentes no horizonte.
+- A planta pode estar visível na parte inferior do enquadramento, já pequena.
+- Luz natural ampla — céu aberto.
+- A sensação é de que a água está no ar, na luz, no ambiente.
+- O ciclo continua.
+
+#### Escala
+
+Aberto / paisagem — a escala se ampliou completamente.
+
+#### Comportamento da água
+
+A água está na atmosfera como vapor d'água, misturada ao ar.
+
+Visualmente:
+
+- ar;
+- luz;
+- nuvens distantes;
+- espaço aberto.
+
+#### Regra narrativa
+
+Esta cena prepara diretamente para C05 — A Origem da Água.
+
+O C05 amplia a escala para o ciclo natural completo: atmosfera, nuvens, chuva, montanhas, nascentes, rios, lagos, oceanos.
+
+A transição deve ser natural:
+
+**a água que saiu da planta agora faz parte do ciclo maior.**
+
+Não mostrar chuva ainda.
+
+Não fechar o ciclo nesta cena.
+
+#### Encerramento
+
+C04 termina aqui.
+
+A água retornou à atmosfera.
+
+Isso prepara diretamente:
+
+**C05 — A Origem da Água**
+
+A próxima pergunta será:
+
+**De onde veio essa água e para onde ela vai?**
+
+---
+
+## Progressão visual
+
+```text
+C04.01 — A Água se Espalha pela Folha          (extremo macro — folha)
+        ↓
+C04.02 — A Água se Aproxima da Superfície      (macro — superfície)
+        ↓
+C04.03 — A Água Encontra o Ar                   (macro — interface folha-ar)
+        ↓
+C04.04 — A Água Deixa a Folha                   (macro→médio — folha + ar)
+        ↓
+C04.05 — O Vapor se Espalha                     (médio — vegetação + atmosfera)
+        ↓
+C04.06 — A Água Entra no Ar                     (plano médio — planta + ar)
+        ↓
+C04.07 — O Céu Aguarda                          (aberto — céu + paisagem)
 ```
-água nas folhas
-↓
-abertura dos estômatos
-↓
-vapor d'água sai para a atmosfera
-↓
-a câmera acompanha o vapor subindo
-```
 
-### Regras científicas
+---
 
-- A transpiração é a saída de vapor d'água pelos estômatos das folhas.
-- É o mecanismo que puxa a água da raiz para cima.
-- O vapor é invisível a olho nu, mas pode ser representado visualmente como névoa sutil.
+## Regras do C04
 
-### Regras visuais
+### Regra de escala
 
-- Transição da escala interna (tecido da folha) para a escala externa (atmosfera).
-- Manter continuidade visual com C03.
-- Não criar efeitos mágicos — respeitar a física.
+O C04 opera uma progressão de escala:
+
+**extremo macro → macro → médio → aberto.**
+
+Começamos muito perto da folha e terminamos olhando para o céu.
+
+A ampliação deve ser gradual e natural, nunca abrupta.
+
+### Regra de continuidade
+
+A continuidade fundamental é:
+
+**C03.07 → C04.01**
+
+C04.01 deve parecer uma continuação da imagem final do C03.
+
+Não reiniciar arbitrariamente a planta.
+
+Não mudar espécie, textura, iluminação ou linguagem sem necessidade.
+
+A câmera deve dar a sensação de que simplesmente continuou acompanhando a mesma água.
+
+### Regra da água
+
+A água permanece:
+
+- cristalina;
+- transparente;
+- neutra;
+- sem azul artificial;
+- sem brilho mágico;
+- sem partículas luminosas;
+- integrada ao tecido;
+- sem aparência de líquido correndo dentro de tubos industriais.
+
+Ao sair da folha, a água passa para a atmosfera como vapor d'água, misturada ao ar.
+
+O vapor d'água é normalmente invisível.
+
+NÃO usar:
+
+- névoa ou fumaça saindo da folha;
+- nuvens surgindo instantaneamente;
+- gotas grandes evaporando;
+- efeitos mágicos;
+- água líquida visível subindo como vapor.
+
+### Regra principal
+
+**A CÂMERA ACOMPANHA A ÁGUA.**
+
+Não transformar o C04 em:
+
+"folha → estômatos → vapor → nuvem"
+
+como uma sequência didática de biologia.
+
+A narrativa deve ser:
+
+**água na folha → água se aproximando da superfície → encontro com o ar → saída da folha → vapor se espalhando → ar atmosférico → céu.**
+
+A planta é a última etapa do percurso terrestre da água.
+
+A água continua sendo a protagonista.
+
+### Regra de encerramento
+
+C04 é a ponte entre a planta (C03) e o ciclo natural (C05).
+
+Ele NÃO deve:
+
+- explicar o ciclo da água como aula;
+- mostrar chuva;
+- mostrar rios;
+- mostrar oceanos;
+- mostrar engenharia;
+- concluir a história da água.
+
+Ele DEVE:
+
+- mostrar a água deixando a planta;
+- preparar a ampliação de escala para C05;
+- manter o espectador curioso sobre o destino da água;
 
 ---
 
