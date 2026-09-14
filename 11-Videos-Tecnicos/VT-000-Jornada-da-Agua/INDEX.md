@@ -48,3 +48,20 @@
   * RV01 — Vigente
 * C03.07 — A Água Chega às Folhas
   * RV01 — Vigente
+
+## C04 — A Água Retorna ao Céu
+
+* C04.01 — A Água se Espalha pela Folha
+  * RV01 — Vigente
+* C04.02 — A Água se Aproxima da Superfície
+  * RV01 — Vigente
+* C04.03 — A Água Encontra o Ar
+  * RV01 — Vigente
+* C04.04 — A Água Deixa a Folha
+  * RV01 — Vigente
+* C04.05 — O Vapor se Espalha
+  * RV01 — Vigente
+* C04.06 — A Água Entra no Ar
+  * RV01 — Vigente
+* C04.07 — O Céu Aguarda
+  * RV01 — Vigente
