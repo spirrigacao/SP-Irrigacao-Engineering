@@ -275,29 +275,418 @@ Todo o conteúdo detalhado do C02 (imagens, prompts, validações) encontra-se n
 
 # 10. VT-000-C03 — A ÁGUA SOBE PELA PLANTA
 
-> **Novo capítulo — a ser detalhado**
+> **Status: PLANEJADO — 7 cenas propostas (C03.01–C03.07)**
+> Continuação direta de C02.10 (Por Onde a Água Sobe).
 
-Continuação direta de C02.10 (Por Onde a Água Sobe).
+## Função narrativa
 
-A água, já presente nos vasos condutores da raiz, segue seu caminho natural para cima:
+C03 começa exatamente onde o C02 terminou:
 
-- raiz → sistema vascular → caule → ramificações → folhas.
+**C02.10 — Por Onde a Água Sobe**
 
-O objetivo é mostrar que a água não desapareceu: ela continua sua jornada dentro da planta.
+O C02 já revelou o sistema de condução da água na raiz.
 
-### Regras científicas
+Portanto, C03 não deve repetir a descoberta dos vasos.
 
-- O transporte se dá pelo xilema (vasos lenhosos).
-- O fluxo é ascendente: raiz → copa.
-- A água move-se por capilaridade e transpiração.
-- Não representar literalmente uma gota líquida inteira subindo — o transporte é difuso,通过 tecidos.
+A pergunta agora é:
 
-### Regras visuais
+**Para onde a água vai depois que encontra esse caminho?**
 
-- Manter a paleta bege-clara da série C02.
-- Escala macro/extremo macro.
-- Luz difusa.
-- Água presente como umidade nos tecidos, não como fluxo visível.
+A câmera acompanha a continuidade da água:
+
+**raiz → caule → ramificações → folhas**
+
+A água continua sendo a protagonista.
+
+A planta é o caminho.
+
+---
+
+## Sequência oficial — 7 cenas
+
+### C03.01 — A Água Encontra o Caminho da Subida
+
+### Função narrativa
+
+Estabelecer a continuidade direta de C02.10.
+
+A água já está dentro do sistema de condução.
+
+Esta cena NÃO mostra ainda a água subindo.
+
+Ela mostra que o caminho revelado no final do C02 **continua em direção ao alto**.
+
+### Conteúdo visual
+
+- Continuidade visual direta de C02.10.
+- Vasos já estabelecidos.
+- Água presente no sistema de condução.
+- A estrutura vascular começa a revelar sua continuidade em direção ao alto.
+- A câmera pode ampliar gradualmente o campo de visão.
+- A direção ascendente torna-se perceptível.
+- Não mostrar um grande fluxo líquido.
+- Não mostrar uma gota correndo como dentro de um tubo.
+
+### Escala
+
+Macro estrutural, com possibilidade de aproximação maior.
+
+### Recurso microscópico
+
+Permitido.
+
+Pode haver uma aproximação momentânea para revelar a relação entre a água e o tecido condutor.
+
+A aproximação deve continuar parecendo parte do filme, não uma imagem de laboratório.
+
+### Regra fundamental
+
+**C03.01 = descoberta da continuidade do caminho.**
+
+Não é ainda a subida.
+
+---
+
+### C03.02 — A Água Começa a Subir
+
+### Função narrativa
+
+Agora sim a subida torna-se perceptível.
+
+É a primeira cena em que o espectador sente claramente:
+
+**a água está avançando para cima.**
+
+### Conteúdo visual
+
+- Água avançando gradualmente pelo sistema vascular.
+- Direção ascendente perceptível.
+- Movimento sutil e contínuo.
+- Água integrada ao tecido.
+- A câmera acompanha o sentido da subida.
+
+### Escala
+
+Macro, podendo entrar brevemente em escala muito próxima.
+
+### Recurso microscópico
+
+Permitido para tornar visível o movimento que normalmente não seria percebido pelo olho humano.
+
+Não mostrar células como aula.
+
+Não utilizar diagramas.
+
+### Regra científica
+
+A água é transportada pelo xilema.
+
+Não representar como uma única gota líquida subindo sozinha.
+
+---
+
+### C03.03 — A Água Deixa a Raiz
+
+### Função narrativa
+
+Marcar a passagem da água do território da raiz para o caule.
+
+### Conteúdo visual
+
+- Região de transição entre raiz e caule.
+- Continuidade do sistema vascular.
+- Água acompanhando essa passagem.
+- Mudança gradual de textura e estrutura.
+- A raiz começa a ficar para trás.
+- O caminho segue para cima.
+
+### Escala
+
+Macro estrutural.
+
+### Recurso microscópico
+
+Pode haver uma aproximação durante a passagem pela região de transição e depois retorno para uma escala maior.
+
+### Regra narrativa
+
+Não criar uma ruptura artificial.
+
+A água não "salta" da raiz para o caule.
+
+É uma continuidade.
+
+---
+
+### C03.04 — A Água Segue pelo Caule
+
+### Função narrativa
+
+Estabelecer o caule como o grande eixo vertical de condução.
+
+### Conteúdo visual
+
+- Estrutura interna do caule.
+- Sistema vascular acompanhando o eixo vertical.
+- Água avançando silenciosamente.
+- Relação entre interior e exterior do caule.
+- Sensação clara de movimento ascendente.
+
+### Escala
+
+Pode alternar:
+
+**macro externo → aproximação estrutural → visão interna → retorno ao macro.**
+
+### Regra cinematográfica
+
+A mudança de escala é permitida quando ajuda a acompanhar a água.
+
+Podemos:
+
+**ver a planta → entrar nela → acompanhar a água → retornar à planta.**
+
+### Regra científica
+
+O xilema conduz água e sais minerais das raízes para as partes aéreas.
+
+Não representar o xilema como uma tubulação industrial perfeita.
+
+---
+
+### C03.05 — A Água Encontra Novos Caminhos
+
+### Função narrativa
+
+Resolver a transição que faltava entre o caule e as ramificações.
+
+O caule principal começa a se dividir.
+
+A água acompanha essas novas direções.
+
+### Conteúdo visual
+
+- Caule principal.
+- Região real de bifurcação.
+- Transição gradual para ramificações.
+- Sistema vascular acompanhando cada nova direção.
+- Água distribuindo-se pelos diferentes caminhos.
+- Sensação de expansão.
+
+### Escala
+
+Macro estrutural, com possibilidade de aproximação interna.
+
+### Ideia cinematográfica
+
+A câmera acompanha um caminho principal.
+
+Ao chegar à bifurcação, percebe que o caminho se divide.
+
+A água continua.
+
+Agora existem vários caminhos.
+
+### Regra
+
+Não mostrar pequenas gotas independentes se separando.
+
+A água permanece integrada ao sistema contínuo de condução.
+
+---
+
+### C03.06 — A Água se Aproxima da Luz
+
+### Função narrativa
+
+Esta cena NÃO deve ser apenas uma transição de iluminação.
+
+Ela deve representar uma nova etapa real:
+
+**a água deixa as grandes estruturas e se aproxima das partes finais que conduzem às folhas.**
+
+A luz passa a funcionar como destino visual.
+
+### Conteúdo visual
+
+- Ramificações progressivamente menores.
+- Nervuras começando a dominar a estrutura.
+- Água avançando para regiões cada vez mais próximas das folhas.
+- A luz externa começa a penetrar no campo visual.
+- A planta começa a abrir visualmente para a atmosfera.
+- A sensação de interior profundo diminui.
+- A luz torna-se progressivamente presente.
+
+### Escala
+
+Pode começar em uma visão estrutural próxima e terminar em uma escala mais ampla.
+
+### Recurso microscópico
+
+Permitido.
+
+Uma aproximação breve pode revelar a água chegando às estruturas que alimentam a folha.
+
+Depois a câmera retorna.
+
+### Regra narrativa
+
+A luz não é apenas iluminação.
+
+Ela representa visualmente:
+
+**o destino próximo da água.**
+
+Ainda não mostrar a chegada completa às folhas.
+
+Essa chegada pertence a C03.07.
+
+---
+
+### C03.07 — A Água Chega às Folhas
+
+### Função narrativa
+
+Concluir a subida.
+
+A água finalmente alcança as folhas.
+
+### Conteúdo visual
+
+- Folha realista.
+- Nervuras claramente perceptíveis.
+- Água chegando ao tecido foliar.
+- Luz atravessando parcialmente a folha.
+- Sensação de vida e atividade.
+- A água integrada ao tecido vegetal.
+
+### Escala
+
+Começar próximo e terminar um pouco mais aberto.
+
+### Recurso microscópico
+
+Pode existir uma breve visão interna/estrutural mostrando a chegada da água ao tecido foliar.
+
+Depois retornar para uma percepção natural da folha.
+
+O espectador deve sentir:
+
+**"A água chegou."**
+
+Não:
+
+**"Estou assistindo a uma aula de anatomia vegetal."**
+
+### Encerramento
+
+C03 termina aqui.
+
+A água chegou às folhas.
+
+Isso prepara diretamente:
+
+**C04 — A Água Retorna ao Céu**
+
+A próxima pergunta será:
+
+**O que acontece com essa água depois que ela chega às folhas?**
+
+---
+
+## Progressão visual
+
+```text
+C03.01 — A Água Encontra o Caminho da Subida
+        ↓
+C03.02 — A Água Começa a Subir
+        ↓
+C03.03 — A Água Deixa a Raiz
+        ↓
+C03.04 — A Água Segue pelo Caule
+        ↓
+C03.05 — A Água Encontra Novos Caminhos
+        ↓
+C03.06 — A Água se Aproxima da Luz
+        ↓
+C03.07 — A Água Chega às Folhas
+```
+
+---
+
+## Regras do C03
+
+### Regra de escala
+
+Não obrigar todas as cenas a permanecerem na mesma escala.
+
+O C03 pode utilizar:
+
+**macro natural → aproximação estrutural → visão interna muito próxima → retorno ao macro.**
+
+Visões mais microscópicas são permitidas quando tiverem função narrativa:
+
+**mostrar algo que o olho normalmente não consegue ver.**
+
+Não utilizar essa escala para:
+
+- explicar células;
+- criar diagramas;
+- apresentar anatomia como aula;
+- mostrar estruturas artificiais;
+- criar aparência de ficção científica;
+- abandonar a aparência de natureza real.
+
+A escala deve mudar porque:
+
+**a história precisa revelar algo.**
+
+### Regra de continuidade
+
+A continuidade fundamental é:
+
+**C02.10 → C03.01**
+
+C03.01 deve parecer uma continuação da imagem final do C02.
+
+Não reiniciar arbitrariamente a planta.
+
+Não mudar espécie, textura, iluminação ou linguagem sem necessidade.
+
+A câmera deve dar a sensação de que simplesmente continuou acompanhando a mesma água.
+
+### Regra da água
+
+A água permanece:
+
+- cristalina;
+- transparente;
+- neutra;
+- sem azul artificial;
+- sem brilho mágico;
+- sem partículas luminosas;
+- integrada ao tecido;
+- sem aparência de líquido correndo dentro de tubos industriais.
+
+A água deve ser percebida pelo caminho que percorre.
+
+### Regra principal
+
+**A CÂMERA ACOMPANHA A ÁGUA.**
+
+Não transformar o C03 em:
+
+"raiz → caule → galho → folha"
+
+como uma sequência didática de botânica.
+
+A narrativa deve ser:
+
+**água → caminho → subida → distribuição → aproximação da luz → chegada às folhas.**
+
+A planta fornece o caminho.
+
+A água continua sendo a protagonista.
 
 ---
 
