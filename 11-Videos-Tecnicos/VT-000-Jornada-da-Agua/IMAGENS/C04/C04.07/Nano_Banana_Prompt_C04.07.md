@@ -80,7 +80,109 @@ Não fechar o ciclo nesta cena.
 
 ### Prompt Principal
 
-wide landscape photograph where the sky dominates the frame, the sky occupies most of the composition with soft natural clouds in the distance on the horizon, in the lower portion of the frame a young citrus tree is visible small against the vast atmosphere, the light is natural and warm suggesting late afternoon, the atmosphere is clear and luminous with an extremely subtle vapor presence that is barely perceptible, fully integrated into the atmosphere, distant clouds are present on the horizon naturally formed not appearing suddenly, the composition communicates that the water is now part of the atmosphere, the vastness of the atmosphere contrasts with the small tree below, warm natural tones with blue sky and golden light, the image prepares for the continuation of the water cycle, no rain, no dramatic storm clouds, no blue water effects, no magical particles, no concentrated vapor, photorealistic landscape photography, 1408x768 resolution
+Create a photorealistic cinematic landscape photograph that closes the sequence "A Água Retorna ao Céu".
+
+The image must communicate that water has completed its passage through the plant and is now integrated into the atmosphere.
+
+COMPOSITION:
+
+* Wide landscape composition, 1408×768.
+* The sky and atmosphere dominate most of the frame.
+* Very large open atmospheric space.
+* A small young Citrus reticulata tree appears only in the lower portion of the frame, distant and discreet, occupying approximately 10–15% of the image at most.
+* The vegetation must not dominate the composition and must not be centered as the main subject.
+* Low horizon.
+* The visual reading should naturally move from the distant vegetation upward into the immense atmosphere and sky.
+* The scene must feel significantly more open and distant than C04.06.
+
+ATMOSPHERE:
+
+* Natural clear atmosphere with subtle depth.
+* Soft, naturally formed clouds are present in the distant sky/horizon.
+* Clouds must look ordinary, natural and already existing in the atmosphere.
+* Do not depict clouds forming.
+* Do not depict rain.
+* Do not depict a storm.
+* The atmosphere should feel calm, expansive and continuous.
+
+WATER / WATER VAPOR:
+
+* The water has already left the leaf and entered the atmosphere.
+* Any representation of water vapor must be extremely subtle, diffuse and almost imperceptible.
+* It must have no defined contour, no concentrated region and no visible direction.
+* Suggest atmospheric moisture only through extremely subtle atmospheric depth, transparency and interaction with natural light.
+* The viewer should understand that the water is now part of the atmosphere without seeing literal droplets or a visible vapor cloud.
+* Water remains neutral and natural; never artificially blue.
+* Do not show the water disappearing.
+* Do not introduce a new isolated water droplet.
+
+LIGHT:
+
+* Natural warm daylight / late-afternoon light.
+* Soft, broad illumination.
+* Realistic atmospheric light.
+* No artificial glow.
+* No magical halo.
+* No luminous particles.
+
+CONTINUITY:
+This image must visually continue C04.06.
+
+C04.06:
+vegetation still perceptible + expanded atmosphere + diffuse vapor.
+
+C04.07:
+vegetation becomes only a distant reference + atmosphere becomes dominant + vapor becomes almost completely integrated into the air + sky assumes visual protagonism.
+
+The image must also create a subtle visual rhyme with C00, where the journey began beneath the sky.
+
+C00:
+sky → water begins its journey.
+
+C04.07:
+water completes its journey through the plant → atmosphere → sky.
+
+Do not copy the composition of C00.01.
+Do not recreate the suspended droplet from C00.02B.
+The relationship with C00 must be narrative and spatial, not a literal repetition.
+
+The image must prepare the viewer for the next chapter, C05 — "A Origem da Água", without anticipating condensation, cloud formation or precipitation.
+
+ABSOLUTELY AVOID:
+
+* smoke
+* dense fog
+* thick vapor
+* vapor columns
+* visible floating particles
+* glowing particles
+* magical effects
+* artificial halos
+* giant water droplets
+* floating droplets
+* rain
+* artificial cloud formation
+* dramatic storm clouds
+* blue-colored water
+* technological elements
+* irrigation
+* pipes
+* industrial elements
+* SP Irrigação products
+* Gotex
+* scientific diagrams
+* arrows
+* laboratory aesthetics
+* microscopic structures
+* text or labels
+
+VISUAL INTENTION:
+
+The final feeling should be:
+
+"The water has left the plant. It has entered the atmosphere. The sky awaits."
+
+Natural, quiet, expansive, photorealistic, cinematic, scientifically coherent.
 
 ### Prompt Variante 1 — Ênfase no céu
 
