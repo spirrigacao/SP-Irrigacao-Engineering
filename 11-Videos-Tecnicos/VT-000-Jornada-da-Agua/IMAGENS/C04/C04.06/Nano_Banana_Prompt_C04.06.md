@@ -9,13 +9,15 @@
 
 A câmera está em:
 
-**plano médio ou aberto — a planta inteira (tangerineira) é visível com o ar ao seu redor.**
+**plano médio ou aberto — parte da tangerineira visível com o ar ao seu redor.**
 
 A água que deixou a planta está agora presente na atmosfera como vapor d'água, misturada ao ar.
 
+O vapor deixou de estar visualmente associado principalmente à vegetação e passou a se integrar progressivamente ao espaço atmosférico.
+
 ### NÃO É:
 - folha individual;
-- grupo de folhas;
+- grupo de folhas (como C04.05);
 - paisagem distante;
 - céu vazio.
 
@@ -24,7 +26,7 @@ A água que deixou a planta está agora presente na atmosfera como vapor d'água
 ```text
   C04.05 (vapor se espalha)
         ↓
-  [ C04.06 — planta inteira, água no ar ]
+  [ C04.06 — água entra no ar — vapor integrado à atmosfera ]
         ↓
   C04.07 (céu + paisagem)
 ```
@@ -33,17 +35,40 @@ A água que deixou a planta está agora presente na atmosfera como vapor d'água
 ## ⚠️ CRITICAL COMPOSITION RULE (OBRIGATÓRIA — NÃO IGNORAR)
 ================================================================================
 
-A composição deve mostrar a **planta inteira em seu ambiente.**
+A composição deve mostrar a **integração progressiva do vapor à atmosfera.**
 
 Elementos-chave:
 
-- **planta inteira visível** — tangerineira com copa e estrutura
-- **ar ao redor** — atmosfera claramente presente, envolvendo a planta
-- **céu presente** — o céu está no enquadramento
-- **luz natural** — tarde ou manhã, tons quentes
-- **planta quieta** — a água partiu para o ar
-- **sensação de continuidade** — entre planta e céu
-- **vapor não precisa ser visualmente visível** — a água está no ar sem ser vista
+- **vegetação na região inferior** — parte da tangerineira ainda visível, funcionando como referência espacial
+- **atmosfera dominando** — o ar e o espaço aberto ocupam a maior parte do quadro
+- **vapor menos localizado** — o vapor não está mais concentrado ao redor das folhas, está distribuído pela atmosfera
+- **sensação de profundidade** — o ar tem profundidade e continuidade
+- **luz natural quente** — tarde ou manhã, tons dourados
+- **expansão espacial** — a imagem comunica que o espaço está se abrindo
+
+### Regra de representação do vapor
+
+O vapor d'água pode ser visualmente perceptível no filme como recurso de linguagem cinematográfica.
+
+**Não inventar o fenômeno. Tornar visível o fenômeno real.**
+
+Em C04.06, o vapor está mais integrado à atmosfera que em C04.05. Ele não está mais concentrado ao redor das folhas — espalhou-se pelo ar, tornando-se cada vez menos localizado e mais distribuído.
+
+Deve ser:
+- mais difuso que em C04.05;
+- menos localizado;
+- mais integrado ao ar;
+- como uma alteração sutil da própria atmosfera;
+- sem contorno definido;
+- sem concentração em um único ponto.
+
+NÃO criar:
+- coluna de vapor;
+- fumaça;
+- névoa;
+- jato;
+- nuvem de vapor sobre a planta;
+- partículas luminosas.
 
 ================================================================================
 ## Prompts para Nano Banana
@@ -51,50 +76,53 @@ Elementos-chave:
 
 ### Prompt Principal
 
-medium wide photograph of a young citrus reticulata tree in natural light, the entire tree is visible with its canopy of green leaves, the atmosphere around the tree is warm and luminous, the sky is visible above with soft natural tones, the tree stands quietly in its environment, the light suggests late afternoon or early morning with warm golden tones, the composition places the tree in the lower to middle portion of the frame with the sky and atmosphere above, the water is no longer visible on or in the tree having mixed into the air as vapor, the image communicates continuity between plant and atmosphere, no artificial mist, no dramatic clouds, no blue water, no magical effects, photorealistic nature photography, natural warm palette, 1408x768 resolution
+medium wide photograph of a young citrus reticulata tree in warm natural light, the tree occupies the lower portion of the frame with its green canopy visible, the atmosphere dominates the composition with warm golden tones and soft depth, a very subtle and diffuse vapor presence is integrated into the air surrounding the tree, more dispersed and atmospheric than in the previous scene, the vapor blends seamlessly with the light and atmosphere appearing as a gentle quality of the air itself, the sky is visible above with soft natural tones, the light suggests late afternoon or early morning with warm golden hues, the composition communicates that the water has fully entered the atmosphere, the tree stands quietly as a reference point while the open air expands around it, photorealistic nature photography, natural warm palette, no vapor columns, no smoke, no dense fog, no artificial mist, no blue water, no magical particles, no dramatic clouds, no artificial effects, 1408x768 resolution
 
-### Prompt Variante 1 — Ênfase na planta e ar
+### Prompt Variante 1 — Ênfase na integração atmosférica
 
-a citrus tree stands in warm natural light, the full canopy is visible against the sky, the atmosphere around the tree is clear and luminous, the composition shows the relationship between the plant and the open air, warm tones from the sun, the tree is alive and green, the sky is soft and open, no visible water, no vapor, no artificial effects, photorealistic, 1408x768
+the camera has pulled back to show the citrus tree against a vast warm atmosphere, the tree is visible in the lower frame with its green foliage, the air around and above the tree is warm and luminous with a very subtle vapor presence that blends naturally into the atmosphere, the vapor is less concentrated than before appearing as a quality of the air itself, the sky opens above with soft golden light, the composition emphasizes the space between plant and sky, no vapor effects, no artificial elements, photorealistic, 1408x768
 
 ### Prompt Variante 2 — Narrativa visual
 
-the camera reveals the whole tree, the citrus tree stands with its green canopy against a warm sky, the atmosphere surrounds the tree, natural golden light, the water has entered the air, the tree is still, the journey through the plant is complete, photorealistic nature photography, warm natural palette, 1408x768
+the citrus tree stands in warm natural light with the atmosphere expanding around it, the water has entered the air and the vapor is now part of the atmosphere, subtly present throughout the warm golden air, the tree is still and green, the sky is soft and open above, the composition shows the relationship between the plant and the vast atmosphere, natural light fills the scene, the journey through the plant is complete, the water is now in the air, photorealistic nature photography, warm natural palette, 1408x768
 
 ================================================================================
 ## Referência de DNA Visual
 ================================================================================
-- Escala: plano médio/aberto — planta inteira
-- Paleta: verde natural (planta) + tons quentes dourados (luz) + céu suave
+- Escala: plano médio/aberto — árvore parcial + atmosfera dominante
+- Paleta: verde natural (planta) + tons quentes dourados (atmosfera/luz)
 - Luz: natural — tarde ou manhã
-- DOF: mais aberta — paisagem
-- Água: ausente da planta — no ar como vapor d'água invisível
-- Planta: tangerineira inteira visível
+- DOF: mais aberta — atmosfera com profundidade
+- Água: ausente da planta — no ar como vapor integrado à atmosfera
+- Vapor: mais difuso e integrado ao ar que em C04.05, menos localizado
+- Planta: parte da tangerineira visível na região inferior
 - Céu: presente no enquadramento
-- Zero elementos didáticos: sem nuvens artificiais, sem vapor visível, sem partículas
-- Sensação: "a água entrou no ar — a planta permanece"
+- Zero elementos didáticos: sem nuvens artificiais, sem coluna de vapor, sem fumaça, sem partículas
+- Sensação: "a água entrou no ar — a atmosfera se expande"
 
 ## Progressão narrativa obrigatória
-A imagem DEVE criar a sensação de continuidade entre planta e atmosfera:
-1. INFERIOR: planta inteira (tangerineira)
-2. MEDIO: ar ao redor da planta
-3. SUPERIOR: céu — o destino da água
+A imagem DEVE criar a sensação de integração atmosférica:
+1. INFERIOR: parte da planta (referência espacial)
+2. MÉDIO/SUPERIOR: atmosfera dominante com vapor integrado
+3. CÉU: aberto, expansivo
 
 ## Especificações Técnicas
 - Resolução: 1408x768
 - Formato: JPG ou PNG
-- Image Reference: usar C04.05-Preview-WIP como referência visual (quando disponível)
+- Image Reference: usar C04.05-Preview-WIP como referência visual
 - Escala do modelo: manter sem alterações
 
 ## Checklist de Validação (pós-geração)
 Antes de aprovar, VERIFIQUE:
-- [ ] A planta inteira está visível no enquadramento
-- [ ] O céu está presente
-- [ ] A atmosfera está claramente presente ao redor da planta
-- [ ] NÃO há água visível na planta
-- [ ] NÃO há vapor, névoa ou fumaça visível
-- [ ] NÃO há nuvens artificiais
+- [ ] A vegetação está na região inferior do enquadramento
+- [ ] A atmosfera domina a maior parte da imagem
+- [ ] O vapor está mais integrado à atmosfera que em C04.05
+- [ ] O vapor não está concentrado ao redor das folhas
+- [ ] O vapor não tem contorno definido nem concentração visível
+- [ ] NÃO há coluna de vapor, fumaça ou névoa
+- [ ] NÃO há nuvens artificiais ou partículas luminosas
 - [ ] NÃO há azul artificial ou brilho mágico
 - [ ] A imagem comunica "a água entrou no ar"
+- [ ] A imagem é mais aberta que C04.05
 - [ ] Paleta natural, luz real, aparência fotográfica real
-- [ ] NÃO antecipa C04.07 (não mostra paisagem ampla ou céu dominando)
+- [ ] NÃO antecipa C04.07 (não mostra paisagem aberta ou céu dominando completamente)

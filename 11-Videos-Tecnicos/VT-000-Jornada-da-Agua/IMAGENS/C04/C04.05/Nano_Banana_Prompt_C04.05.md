@@ -47,16 +47,33 @@ Elementos-chave:
 - **luz natural ampla** — o sol pode estar presente ou indiretamente
 - **planta diminui** — a vegetação ocupa menos do enquadramento
 - **ar amplia** — o espaço atmosférico se expande
+- **vapor mais perceptível** — a presença de vapor d'água se torna mais compreensível visualmente
 
-NÃO criar uma coluna de vapor.
+### Regra de representação do vapor
 
-NÃO criar fumaça.
+O vapor d'água pode ser visualmente perceptível no filme como recurso de linguagem cinematográfica.
 
-NÃO criar partículas.
+**Não inventar o fenômeno. Tornar visível o fenômeno real.**
 
-NÃO criar uma nuvem artificial imediatamente acima da planta.
+Em C04.05, o vapor passa a ser visualmente perceptível com mais clareza do que em C04.04. Deve aparecer como uma presença extremamente delicada, difusa e integrada ao ar e à luz, espalhando-se naturalmente ao redor da vegetação.
 
-O vapor d'água se mistura ao ar — ele não precisa ser visualmente visível.
+Deve ser:
+- delicado;
+- difuso;
+- translúcido;
+- integrado ao ar;
+- integrado à luz natural;
+- sem contorno definido;
+- sem aparência de substância sólida;
+- mais perceptível que em C04.04, mas ainda muito sutil.
+
+NÃO criar:
+- coluna de vapor;
+- fumaça;
+- névoa;
+- jato;
+- nuvem artificial imediatamente acima da planta;
+- partículas luminosas.
 
 ================================================================================
 ## Prompts para Nano Banana
@@ -64,15 +81,15 @@ O vapor d'água se mistura ao ar — ele não precisa ser visualmente visível.
 
 ### Prompt Principal
 
-medium photograph of citrus tree foliage with the sky visible above, the camera has pulled back to show a group of leaves and branches, above the vegetation the atmosphere is present with natural light, the sky is partially visible with soft natural tones, the vegetation occupies the lower portion of the frame while the atmosphere dominates the upper portion, the composition shows the plant with air and sky around it, the water is no longer visible having mixed into the atmosphere, warm natural tones with green foliage and golden atmospheric light, no dense fog, no artificial mist, no vapor columns, no blue water, no magical particles, no dramatic clouds, photorealistic nature photography, 1408x768 resolution
+medium photograph of a group of young citrus reticulata leaves and branches against a warm luminous atmosphere, the camera has pulled back to show more vegetation than the previous scene, the leaves occupy the lower portion of the frame while the atmosphere and soft sky dominate the upper portion, a delicate and diffuse vapor presence is visible in the air surrounding the foliage, more perceptible than in the previous scene but still extremely subtle, the vapor blends naturally with the warm light and atmosphere appearing as a gentle shift in the air rather than a separate substance, the vegetation is lush and green with natural variations, the atmosphere is warm and golden with soft depth, the composition creates a sense of spatial expansion as the plant becomes smaller and the air becomes larger, natural sunlight illuminates the scene from above, shallow depth of field with the background softly blurred, photorealistic nature photography, warm natural palette, no vapor columns, no smoke, no dense fog, no artificial mist, no blue water, no magical particles, no dramatic clouds, no artificial effects, 1408x768 resolution
 
 ### Prompt Variante 1 — Ênfase na ampliação
 
-the camera pulls back to reveal the canopy of a citrus tree, leaves and branches fill the lower frame, above them the air is warm and luminous with natural light, the sky begins to appear, the composition shows the plant becoming smaller as the sky becomes larger, no vapor, no mist, no artificial effects, warm natural palette, photorealistic, 1408x768
+the camera pulls back to reveal a cluster of citrus leaves and branches, the foliage fills the lower frame with natural green tones, above the vegetation the atmosphere is warm and luminous with a delicate vapor presence spreading naturally through the air, extremely translucent and subtle, the sky begins to appear in the upper portion, the composition shows the plant becoming smaller as the atmospheric space grows larger, natural warm light, no vapor columns, no mist, no smoke, photorealistic, 1408x768
 
 ### Prompt Variante 2 — Narrativa visual
 
-a group of citrus leaves against the warm atmosphere, the camera has moved back to show the relationship between plant and air, natural light creates a peaceful scene, the water has mixed into the atmosphere, the sky is visible above, the composition is balanced between vegetation and open air, no vapor, no artificial effects, photorealistic nature photography, 1408x768
+a group of citrus leaves against the warm atmosphere, the camera has moved back to show the relationship between plant and air, a delicate vapor presence is sensed in the air around the foliage, more visible than before but still very subtle, natural light creates a peaceful scene, the water has mixed into the atmosphere as vapor, the sky is visible above, the composition is balanced between vegetation and open air with the atmosphere expanding, no artificial effects, no smoke, no columns, photorealistic nature photography, 1408x768
 
 ================================================================================
 ## Referência de DNA Visual
@@ -81,22 +98,23 @@ a group of citrus leaves against the warm atmosphere, the camera has moved back 
 - Paleta: verde natural (vegetação) + tons quentes/dourados (atmosfera)
 - Luz: natural ampla
 - DOF: mais aberta que cenas anteriores
-- Água: no ar como vapor d'água — não visível
+- Água: no ar como vapor d'água — presença delicada e difusa
+- Vapor: mais perceptível que C04.04, ainda muito sutil, integrado ao ar e à luz
 - Vegetação: grupo de folhas ou copa parcial
 - Céu: pode começar a aparecer
-- Zero elementos didáticos: sem nuvens artificiais, sem vapor, sem fumaça, sem partículas
+- Zero elementos didáticos: sem nuvens artificiais, sem coluna de vapor, sem fumaça, sem partículas
 - Sensação: "o vapor se espalhou — a água está no ar"
 
 ## Progressão narrativa obrigatória
 A imagem DEVE criar a sensação de ampliação e espalhamento:
 1. INFERIOR: vegetação (grupo de folhas)
-2. CENTRO: interface entre planta e atmosfera
+2. CENTRO: interface entre planta e atmosfera, com vapor delicado se espalhando
 3. SUPERIOR: ar e céu — o espaço se abre
 
 ## Especificações Técnicas
 - Resolução: 1408x768
 - Formato: JPG ou PNG
-- Image Reference: usar C04.04-Preview-WIP como referência visual (quando disponível)
+- Image Reference: usar C04.04-Preview-WIP como referência visual
 - Escala do modelo: manter sem alterações
 
 ## Checklist de Validação (pós-geração)
@@ -104,9 +122,10 @@ Antes de aprovar, VERIFIQUE:
 - [ ] A vegetação ocupa a parte inferior do enquadramento
 - [ ] O ar/céu está presente na parte superior
 - [ ] Há uma sensação de ampliação de escala
-- [ ] NÃO há coluna de vapor ou fumaça
-- [ ] NÃO há nuvens artificiais ou partículas
-- [ ] NÃO há névoa saindo da planta
+- [ ] O vapor é mais perceptível que em C04.04, mas ainda delicado e difuso
+- [ ] O vapor não tem contorno definido e se integra ao ar e à luz
+- [ ] NÃO há coluna de vapor, fumaça ou névoa
+- [ ] NÃO há nuvens artificiais ou partículas luminosas
 - [ ] NÃO há azul artificial ou brilho mágico
 - [ ] A imagem comunica "a água está no ar"
 - [ ] Paleta natural, luz real, aparência fotográfica real
