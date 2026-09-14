@@ -31,3 +31,20 @@
   * RV01 — Vigente (resposta biológica microscópica na superfície radicular)
 * C02.09 — A Absorcao Comeca
   * RV01 — Vigente (absorção da água pela raiz no ponto de contato)
+
+## C03 — A Subida pela Planta
+
+* C03.01 — A Água Encontra o Caminho da Subida
+  * RV01 — Vigente
+* C03.02 — A Água Começa a Subir
+  * RV01 — Vigente
+* C03.03 — A Água Deixa a Raiz
+  * RV01 — Vigente
+* C03.04 — A Água Segue pelo Caule
+  * RV01 — Vigente
+* C03.05 — A Água Encontra Novos Caminhos
+  * RV01 — Vigente
+* C03.06 — A Água se Aproxima da Luz
+  * RV01 — Vigente
+* C03.07 — A Água Chega às Folhas
+  * RV01 — Vigente
