@@ -60,16 +60,20 @@ A resposta nunca é entregue antes de criar a pergunta.
 
 O protagonista é a água.
 
+No VT-000, a água percorre exclusivamente seu caminho natural.
+
 Todos os elementos aparecem em função da jornada da água:
 
 - A natureza, como origem.
-- A engenharia, como ponte.
-- O produto, como ferramenta.
-- O alimento, como consequência.
+- A planta, como condutora.
+- A atmosfera, como retorno.
+- O ciclo, como fechamento.
 
-A frase central que orienta o projeto:
+A frase central que orienta o VT-000:
 
-> **ÁGUA → AGRICULTURA → ALIMENTO**
+> **Cada gota tem um caminho.**
+
+A engenharia não faz parte da narrativa do VT-000. Ela será apresentada exclusivamente no VT-001 — A Água Encontra a Engenharia.
 
 ---
 
@@ -95,23 +99,91 @@ Se a resposta for "não", a fala deve ser revisada.
 
 ---
 
-# 6. ESTRUTURA DO VÍDEO
+# 6. ESTRUTURA OFICIAL DO VT-000 — 7 CAPÍTULOS
 
-O vídeo é dividido em momentos, na seguinte ordem:
+> **Status: OFICIAL — vigente a partir de 12/09/2026**
+> Estrutura reestruturada para separar a jornada natural da água (VT-000) da jornada pela engenharia (VT-001).
 
-1. **VT-000-C01 — A Primeira Gota** — abertura emocional. O espectador descobre a água antes de qualquer produto ou institucional.
-2. **Origem da Água** — a água surge na natureza (chuva, rio, nuvens, montanhas, oceano).
-3. **A Captação e o Percurso** — captação, reservatório, bombeamento e filtragem.
-4. **A Engenharia no Caminho** — tubulações, conexões, distribuição, condução secundária e linha de irrigação.
-5. **O Emissor e a Raiz** — a água chega ao solo, é conduzida até a raiz e participa da planta.
-6. **Água e Alimento** — a água presente na produção de alimentos e na colheita.
-7. **O Caminho Continua** — fechamento, retomando o sentido da jornada e o respeito à água.
+O VT-000 — A Jornada da Água é dividido em capítulos, na seguinte ordem oficial:
 
-Os nomes e a ordem exata dos capítulos devem ser validados antes da produção detalhada de cada cena.
+1. **VT-000-C00 — Introdução** — abertura visual: mundo natural, aproximação da chuva, formação da gota. *Concluído (7 cenas).*
+2. **VT-000-C01 — A Primeira Gota** — escala íntima: formação da gota, crescimento, gravidade, destacamento, entrada na água, imersão e aproximação ao solo. *Concluído (8 cenas).*
+3. **VT-000-C02 — O Encontro com o Solo** — continuação direta de C01.08. A gota encontra o solo: contato, infiltração, encontro com a raiz e chegada aos vasos condutores. *Concluído (12 cenas).*
+4. **VT-000-C03 — A Água Sobe pela Planta** — a água segue pelo sistema vascular: raiz → caule → ramificações → folhas. Continuação direta de C02.10. *[A planejar]*
+5. **VT-000-C04 — A Água Retorna ao Céu** — a água chega às folhas e deixa a planta através da transpiração, retornando à atmosfera como vapor. *[A planejar]*
+6. **VT-000-C05 — A Origem da Água** — ampliação de escala: o ciclo natural da água — atmosfera, nuvens, chuva, montanhas, nascentes, rios, lagos, oceanos. *[A planejar]*
+7. **VT-000-C6 — O Caminho Continua** — fechamento conceitual: a água continua seu ciclo. Mensagem final: "Cada gota tem um caminho." *[A planejar]*
+
+Sequência oficial: **C00 → C01 → C02 → C03 → C04 → C05 → C06**
+
+Progressão narrativa: **Introdução → Gota → Solo/Raiz → Planta → Atmosfera → Ciclo Natural → Continuidade**
+
+> **Regra de separação:** O VT-000 acompanha exclusivamente a jornada natural da água. A engenharia, captação, tubulações, emissores e irrigação são apresentados exclusivamente no VT-001 — A Água Encontra a Engenharia.
 
 ---
 
-# 7. ABERTURA — VT-000-C01 — A PRIMEIRA GOTA
+# 7. VT-000-C00 — INTRODUÇÃO
+
+## Função narrativa
+
+O C00 é a **porta de entrada narrativa do VT-000 — Jornada da Água**.
+
+Sua função não é contar ainda a jornada da água, mas **preparar o espectador para acompanhá-la**.
+
+O C00 deve:
+
+- apresentar o universo em que a jornada da água acontece;
+- estabelecer a água como protagonista;
+- criar a percepção de que existe uma história acontecendo antes de a gota iniciar seu percurso;
+- preparar a mudança de escala que será utilizada ao longo do VT-000;
+- despertar curiosidade sobre o caminho que aquela água irá percorrer;
+- conduzir naturalmente para C01 — A Primeira Gota.
+
+## Regra fundamental
+
+C00 **não é uma etapa do ciclo da água**.
+
+Ele é o **prólogo da jornada**.
+
+Portanto, não deve antecipar ou explicar:
+
+- absorção pela raiz;
+- subida pela planta;
+- transpiração;
+- origem da água;
+- captação;
+- irrigação;
+- engenharia.
+
+Esses acontecimentos pertencem aos capítulos seguintes ou ao VT-001.
+
+## Relação com C01
+
+A função de C00 é preparar a pergunta.
+
+C01 começa a responder essa pergunta.
+
+A transição narrativa deve ser:
+
+```text
+C00 — INTRODUÇÃO
+"Existe uma jornada acontecendo."
+        ↓
+C01 — A PRIMEIRA GOTA
+"A jornada começa."
+```
+
+## Preservação
+
+Esta definição é **conceitual e estrutural**.
+
+Não alterar as imagens, cenas, arquivos ou conteúdo visual já aprovado do C00.
+
+O objetivo é apenas registrar claramente no Roteiro-Mestre **qual é a função do C00 dentro da obra**.
+
+---
+
+# 8. ABERTURA — VT-000-C01 — A PRIMEIRA GOTA
 
 A direção conceitual aprovada para o primeiro capítulo é:
 
@@ -171,11 +243,103 @@ O texto definitivo deste trecho só será considerado oficial após a produção
 
 ---
 
-# 8. ORIGEM DA ÁGUA
+# 9. VT-000-C02 — O ENCONTRO COM O SOLO
+
+> **Status: CONCLUÍDO — 12 cenas publicadas (C02.01–C02.12)**
+
+O C02 é a **continuação direta de C01.08**.
+
+A gota encontra o solo: contato, infiltração, encontro com a raiz e chegada aos vasos condutores.
+
+### Progressão narrativa
+
+```text
+C01.08 — Aproximação ao solo
+        ↓
+C02.01–C02.05 — Contato e infiltração
+        ↓
+C02.06–C02.09 — Encontro com a raiz
+        ↓
+C02.10 — A Água Sobe (por onde a água sobe)
+        ↓
+C02.11–C02.12 — Transição para C03
+```
+
+### NOTA
+
+Esta seção existe para garantir que o C02 permaneça na estrutura oficial do Roteiro-Mestre.
+
+Todo o conteúdo detalhado do C02 (imagens, prompts, validações) encontra-se na pasta `IMAGENS/C02/`.
+
+---
+
+# 10. VT-000-C03 — A ÁGUA SOBE PELA PLANTA
+
+> **Novo capítulo — a ser detalhado**
+
+Continuação direta de C02.10 (Por Onde a Água Sobe).
+
+A água, já presente nos vasos condutores da raiz, segue seu caminho natural para cima:
+
+- raiz → sistema vascular → caule → ramificações → folhas.
+
+O objetivo é mostrar que a água não desapareceu: ela continua sua jornada dentro da planta.
+
+### Regras científicas
+
+- O transporte se dá pelo xilema (vasos lenhosos).
+- O fluxo é ascendente: raiz → copa.
+- A água move-se por capilaridade e transpiração.
+- Não representar literalmente uma gota líquida inteira subindo — o transporte é difuso,通过 tecidos.
+
+### Regras visuais
+
+- Manter a paleta bege-clara da série C02.
+- Escala macro/extremo macro.
+- Luz difusa.
+- Água presente como umidade nos tecidos, não como fluxo visível.
+
+---
+
+# 11. VT-000-C04 — A ÁGUA RETORNA AO CÉU
+
+> **Novo capítulo — a ser detalhado**
+
+A água chega às folhas e deixa a planta através da transpiração.
+
+### progressão narrativa
+
+```
+água nas folhas
+↓
+abertura dos estômatos
+↓
+vapor d'água sai para a atmosfera
+↓
+a câmera acompanha o vapor subindo
+```
+
+### Regras científicas
+
+- A transpiração é a saída de vapor d'água pelos estômatos das folhas.
+- É o mecanismo que puxa a água da raiz para cima.
+- O vapor é invisível a olho nu, mas pode ser representado visualmente como névoa sutil.
+
+### Regras visuais
+
+- Transição da escala interna (tecido da folha) para a escala externa (atmosfera).
+- Manter continuidade visual com C03.
+- Não criar efeitos mágicos — respeitar a física.
+
+---
+
+# 12. VT-000-C05 — A ORIGEM DA ÁGUA
+
+> **Conteúdo original migrado da seção anterior**
 
 A água deve ser apresentada como parte de um ciclo, nunca como um elemento isolado.
 
-Temas cobertos neste momento:
+### Temas cobertos
 
 - ciclo hidrológico;
 - evaporação e condensação;
@@ -184,92 +348,27 @@ Temas cobertos neste momento:
 - escoamento e infiltração;
 - armazenamento em rios, lagos, aquíferos e reservatórios.
 
+### Escala
+
+Ampliação progressiva: da folha → da planta → da paisagem → do planeta.
+
+### Regras científicas
+
 Nenhuma informação científica pode contradizer a seção `12-Ciencias-da-Agua` da Biblioteca.
 
 [VALIDAR] A seção 12-Ciencias-da-Agua já possui conteúdo publicado (CA-000 a CA-005, commit 9e7e39f). Manter a referência atualizada à base científica ao detalhar este momento.
 
----
+### Regras visuais
 
-# 9. CAPTAÇÃO E PERCURSO
-
-A água é conduzida até o sistema.
-
-Neste momento aparecem, em ordem lógica:
-
-**Origem da água → Captação → Reservatório → Bombeamento → Filtragem → Tubulação principal**
-
-Cada etapa deve ser explicada pela sua função dentro do sistema, nunca isoladamente.
-
-O que não for confirmado:
-
-`[VALIDAR]`
+- Não transformar em montagem aleatória de paisagens.
+- A água continua sendo a protagonista.
+- Cada imagem deve ser consequência da anterior.
 
 ---
 
-# 10. A ENGENHARIA NO CAMINHO
+# 13. VT-000-C06 — O CAMINHO CONTINUA
 
-A engenharia aparece naturalmente como a ponte que conduz a água.
-
-Os produtos da SP Irrigação entram como ferramentas:
-
-**Tubulação principal → Distribuição → Condução secundária → Conexões → Linha de irrigação → Fita/tubo → Emissor**
-
-Os produtos devem respeitar as fichas oficiais da seção `04-Produtos-SP-Irrigacao`.
-
-Nenhum produto pode aparecer com aplicação, geometria ou função diferente da documentada.
-
-[VALIDAR] As fichas de PI-002 a PI-010 ainda estão marcadas como "Em desenvolvimento" no repositório.
-
----
-
-# 11. O EMISSOR E A RAIZ
-
-A água chega ao solo.
-
-Este momento mostra, com linguagem visual limpa e tecnicamente correta:
-
-- solo;
-- infiltração;
-- zona radicular;
-- absorção pelas raízes;
-- transporte da água na planta.
-
-O comportamento da água deve respeitar a física e o conhecimento técnico da Biblioteca.
-
----
-
-# 12. ÁGUA E ALIMENTO
-
-A água presente na produção de alimentos.
-
-Este é o destino da jornada.
-
-A relação entre água, planta e alimento deve ser apresentada com contexto agronômico.
-
-Números associados a produção de alimentos:
-
-`[VALIDAR CIENTIFICAMENTE]`
-
-Nunca apresentar quantidade fixa de água como universal.
-
-Valores dependentes de condições devem ser apresentados como dependentes de:
-
-- cultura;
-- clima;
-- solo;
-- estágio de desenvolvimento;
-- manejo;
-- sistema de irrigação;
-- precipitação;
-- evapotranspiração.
-
-Nunca afirmar que uma única conexão economiza determinada quantidade de água sem evidência.
-
-A eficiência hídrica depende do sistema completo e do manejo.
-
----
-
-# 13. FECHAMENTO
+> **Fechamento do VT-000**
 
 O fechamento retoma a Jornada sem concluir a história da água.
 
@@ -280,12 +379,13 @@ O espectador deve sair com:
 - curiosidade;
 - admiração;
 - compreensão;
-- respeito pela água;
-- interesse pela engenharia.
+- respeito pela água.
 
-Slogan de encerramento:
+### Mensagem final
 
-> **Cada gota tem um caminho. Nossa engenharia existe para permitir esse caminho acontecer na vida real.**
+> **"Cada gota tem um caminho."**
+
+O VT-000 termina aqui.
 
 ---
 
@@ -376,14 +476,94 @@ Referências inventadas não são permitidas.
 
 [CONFLITO — VALIDAR] Gotex é citado em múltiplos documentos, mas não possui ficha oficial própria. Definir a localização definitiva do personagem na Biblioteca.
 
+[DECISÃO APROVADA] VT-000 e VT-001 são filmes separados. VT-000 acompanha exclusivamente a jornada natural da água. VT-001 acompanha a água attraversando a engenharia.
+
 ---
 
 # 18. STATUS
 
-🟡 Em Desenvolvimento — Roteiro-Mestre proposto, aguardando validação de Edgar.
+🟡 Em Desenvolvimento — Roteiro-Mestre reestruturado, aguardando validação.
 
 ---
 
 # 19. SLOGAN
 
-> **Cada gota tem um caminho. Nossa engenharia existe para permitir esse caminho acontecer na vida real.**
+> **Cada gota tem um caminho.**
+
+---
+
+# 20. CONTEÚDO MIGRADO — FUTURO VT-001
+
+> **Este conteúdo NÃO foi apagado. Foi preservado para uso exclusivo no VT-001 — A Água Encontra a Engenharia.**
+
+## Captação e Percurso
+
+A água é conduzida até o sistema.
+
+Neste momento aparecem, em ordem lógica:
+
+**Origem da água → Captação → Reservatório → Bombeamento → Filtragem → Tubulação principal**
+
+Cada etapa deve ser explicada pela sua função dentro do sistema, nunca isoladamente.
+
+## A Engenharia no Caminho
+
+A engenharia aparece naturalmente como a ponte que conduz a água.
+
+Os produtos da SP Irrigação entram como ferramentas:
+
+**Tubulação principal → Distribuição → Condução secundária → Conexões → Linha de irrigação → Fita/tubo → Emissor**
+
+Os produtos devem respeitar as fichas oficiais da seção `04-Produtos-SP-Irrigacao`.
+
+Nenhum produto pode aparecer com aplicação, geometria ou função diferente da documentada.
+
+[VALIDAR] As fichas de PI-002 a PI-010 ainda estão marcadas como "Em desenvolvimento" no repositório.
+
+## O Emissor e a Raiz (por engenharia)
+
+A água chega ao solo através do sistema de irrigação.
+
+Este momento mostra, com linguagem visual limpa e tecnicamente correta:
+
+- emissor;
+- fluxo de água;
+- solo;
+- infiltração;
+- zona radicular;
+- absorção pelas raízes.
+
+O comportamento da água deve respeitar a física e o conhecimento técnico da Biblioteca.
+
+## Água e Alimento
+
+A água presente na produção de alimentos.
+
+Este é o destino da jornada no VT-001.
+
+A relação entre água, planta e alimento deve ser apresentada com contexto agronômico.
+
+Números associados a produção de alimentos:
+
+`[VALIDAR CIENTIFICAMENTE]`
+
+Nunca apresentar quantidade fixa de água como universal.
+
+Valores dependentes de condições devem ser apresentados como dependentes de:
+
+- cultura;
+- clima;
+- solo;
+- estágio de desenvolvimento;
+- manejo;
+- sistema de irrigação;
+- precipitação;
+- evapotranspiração.
+
+Nunca afirmar que uma única conexão economiza determinada quantidade de água sem evidência.
+
+A eficiência hídrica depende do sistema completo e do manejo.
+
+## Slogan do VT-001
+
+> **"Cada gota tem um caminho. Nossa engenharia existe para permitir esse caminho acontecer na vida real."**
